@@ -1,22 +1,22 @@
-# Available .JEWELRY One-Word Domains (9,579)
+# Available .JEWELRY One-Word Domains (9,580)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C580%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C579%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C579%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C580%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .jewelry one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .jewelry one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 9,579-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,580 domains** on the canonical page below.
 
-**Public extract:** 9,580 rows · **Live catalog:** 9,579 domains
+**Public extract:** 9,579 rows · **Live catalog:** 9,580 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/jewelry`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .JEWELRY one-word doma
 
 ### Files
 
-- `jewelry.csv` — public CSV extract (9,580 rows)
-- `jewelry.json` — public JSON extract (9,580 rows)
+- `jewelry.csv` — public CSV extract (9,579 rows)
+- `jewelry.json` — public JSON extract (9,579 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -70,20 +70,20 @@ print(df.head())
 | live.jewelry     | available | $19.99    | $84.99        | 108            | 56     | 4      | name.com          |
 | news.jewelry     | resell    | —         | —             | 100            | 64     | 4      | IONOS SE          |
 | simple.jewelry   | premium   | $250      | $250          | 128            | 48     | 6      | name.com          |
-| alpha.jewelry    | available | $19.99    | $84.99        | 90             | 54     | 5      | name.com          |
+| zero.jewelry     | available | $19.99    | $84.99        | 112            | 53     | 4      | name.com          |
 | domain.jewelry   | resell    | —         | —             | 80             | 64     | 6      | Dynadot Inc       |
 | travel.jewelry   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
-| zero.jewelry     | available | $19.99    | $84.99        | 112            | 53     | 4      | name.com          |
-| space.jewelry    | resell    | —         | —             | 80             | 61     | 5      | GoDaddy.com, LLC  |
+| alpha.jewelry    | available | $19.99    | $84.99        | 90             | 53     | 5      | name.com          |
+| future.jewelry   | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc       |
 | order.jewelry    | premium   | $82.50    | $82.50        | 78             | 41     | 5      | name.com          |
 | air.jewelry      | available | $69.98    | —             | 84             | 49     | 3      | namecheap         |
-| future.jewelry   | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc       |
+| good.jewelry     | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 9  |
 | direct.jewelry   | premium   | $500      | $500          | 104            | 38     | 6      | name.com          |
 | security.jewelry | available | $69.98    | —             | 70             | 49     | 8      | namecheap         |
-| good.jewelry     | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 9  |
+| buy.jewelry      | resell    | —         | —             | 106            | 53     | 3      | Edomains LLC      |
 | sports.jewelry   | premium   | $128.70   | $128.70       | 110            | 37     | 6      | namecheap         |
 | all.jewelry      | available | $19.99    | $84.99        | 88             | 48     | 3      | name.com          |
-| buy.jewelry      | resell    | —         | —             | 106            | 53     | 3      | Edomains LLC      |
+| bot.jewelry      | resell    | —         | —             | 98             | 53     | 3      | Porkbun LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,580-row public sample | 9,579 live domains                               |
+| 9,579-row public sample | 9,580 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
