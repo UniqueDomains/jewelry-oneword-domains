@@ -66,19 +66,19 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | easy.jewelry     | available | $19.99    | $84.99        | 128            | 68     | 4      | name.com          |
 | get.jewelry      | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 39 |
-| free.jewelry     | premium   | $123.75   | $123.75       | 88             | 59     | 4      | name.com          |
+| free.jewelry     | premium   | $123.75   | $123.75       | 88             | 57     | 4      | name.com          |
 | live.jewelry     | available | $19.99    | $84.99        | 108            | 56     | 4      | name.com          |
 | news.jewelry     | resell    | —         | —             | 100            | 64     | 4      | IONOS SE          |
-| simple.jewelry   | premium   | $250      | $250          | 128            | 48     | 6      | name.com          |
+| simple.jewelry   | premium   | $250      | $250          | 128            | 49     | 6      | name.com          |
 | zero.jewelry     | available | $19.99    | $84.99        | 112            | 53     | 4      | name.com          |
 | domain.jewelry   | resell    | —         | —             | 80             | 64     | 6      | Dynadot Inc       |
 | travel.jewelry   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
 | alpha.jewelry    | available | $19.99    | $84.99        | 90             | 53     | 5      | name.com          |
 | future.jewelry   | resell    | —         | —             | 94             | 55     | 6      | Dynadot Inc       |
-| order.jewelry    | premium   | $82.50    | $82.50        | 78             | 41     | 5      | name.com          |
+| direct.jewelry   | premium   | $500      | $500          | 104            | 40     | 6      | name.com          |
 | air.jewelry      | available | $69.98    | —             | 84             | 49     | 3      | namecheap         |
 | good.jewelry     | resell    | —         | —             | 82             | 55     | 4      | Sav.com, LLC - 9  |
-| direct.jewelry   | premium   | $500      | $500          | 104            | 38     | 6      | name.com          |
+| order.jewelry    | premium   | $82.50    | $82.50        | 78             | 40     | 5      | name.com          |
 | security.jewelry | available | $69.98    | —             | 70             | 49     | 8      | namecheap         |
 | buy.jewelry      | resell    | —         | —             | 106            | 53     | 3      | Edomains LLC      |
 | sports.jewelry   | premium   | $128.70   | $128.70       | 110            | 37     | 6      | namecheap         |
