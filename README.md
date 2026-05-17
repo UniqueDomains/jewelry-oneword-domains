@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .jewelry one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,548 domains · **Median ask:** $24.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/jewelry`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | jobs.jewelry       | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
 | robots.jewelry     | available | $19.99    | —             | 62             | 47     | 6      | name.com  |
 | LongBeach.jewelry  | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap |
-| whynot.jewelry     | available | $19.99    | —             | 74             | 39     | 7      | name.com  |
+| whynot.jewelry     | available | $19.99    | —             | 74             | 44     | 7      | name.com  |
 | appraisals.jewelry | premium   | $500      | —             | 56             | 10     | 10     | name.com  |
 | prompts.jewelry    | available | $19.99    | —             | 54             | 39     | 7      | name.com  |
 | justin.jewelry     | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
