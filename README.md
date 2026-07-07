@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .jewelry one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,548 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,548 domains · **Median ask:** $24.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,548 domains · **Median ask:** $21.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/jewelry`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/jewelry`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .JEWELRY one-word doma
 
 ### Files
 
-- `jewelry.csv` — public CSV extract (1,000 rows)
-- `jewelry.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `jewelry.csv`, public CSV extract (1,000 rows)
+- `jewelry.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| homes.jewelry      | available | $19.99    | —             | 86             | 34     | 5      | name.com  |
-| barup.jewelry      | available | $19.99    | —             | 82             | 2      | 6      | name.com  |
-| forces.jewelry     | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
-| geton.jewelry      | available | $19.99    | —             | 82             | 10     | 6      | name.com  |
-| dogsit.jewelry     | available | $19.99    | —             | 96             | 2      | 6      | name.com  |
-| getlife.jewelry    | available | $19.99    | —             | 80             | 5      | 8      | name.com  |
-| leaveon.jewelry    | available | $19.99    | —             | 80             | 1      | 8      | name.com  |
-| cars.jewelry       | available | $19.99    | —             | 66             | 47     | 4      | name.com  |
-| jobs.jewelry       | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| robots.jewelry     | available | $19.99    | —             | 62             | 47     | 6      | name.com  |
-| LongBeach.jewelry  | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap |
-| whynot.jewelry     | available | $19.99    | —             | 74             | 44     | 7      | name.com  |
-| appraisals.jewelry | premium   | $500      | —             | 56             | 10     | 10     | name.com  |
-| prompts.jewelry    | available | $19.99    | —             | 54             | 39     | 7      | name.com  |
-| justin.jewelry     | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
-| events.jewelry     | available | $19.99    | —             | 68             | 37     | 6      | name.com  |
-| aliens.jewelry     | available | $19.99    | —             | 56             | 35     | 6      | name.com  |
-| tickets.jewelry    | available | $19.99    | —             | 64             | 34     | 7      | name.com  |
-| spectra.jewelry    | available | $19.99    | —             | 62             | 34     | 7      | name.com  |
-| letsgo.jewelry     | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| ADS.jewelry        | available | $19.99    | —             | high           | medium | 3      | name.com                                                           |
+| super.jewelry      | resell    | —         | —             | medium         | medium | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| tel.jewelry        | premium   | $500      | —             | medium         | low    | 3      | name.com                                                           |
+| apt.jewelry        | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| arabian.jewelry    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                                        |
+| case.jewelry       | premium   | $500      | —             | high           | low    | 4      | name.com                                                           |
+| bus.jewelry        | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| city.jewelry       | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                           |
+| cue.jewelry        | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
+| sport.jewelry      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                           |
+| did.jewelry        | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| hawaii.jewelry     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                           |
+| die.jewelry        | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
+| kingdom.jewelry    | premium   | $500      | —             | high           | low    | 7      | name.com                                                           |
+| eve.jewelry        | available | $19.99    | —             | high           | medium | 3      | name.com                                                           |
+| investment.jewelry | premium   | $242      | $242          | high           | low    | 10     | namesilo                                                           |
+| flu.jewelry        | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
+| had.jewelry        | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| hug.jewelry        | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| ive.jewelry        | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .jewelry extension, so the selection is highly specific: one-word names tied to a niche retail and product category. That can help a founder who wants instant category signaling, but it also makes name quality more important. Generic words like jewels.jewelry or homes.jewelry communicate differently from coined or ambiguous names like Acup.jewelry or barup.jewelry. When comparing these domains, focus on whether the word is easy to say, easy to remember, commercially relevant to jewelry, and unlikely to create trademark friction. With a median ask of 24.97, price alone will not separate the best options from the weakest ones.
+This selection covers one-word .jewelry domain names, including everyday words, compound terms, and pop-culture references like flaxseed.jewelry, wifi.jewelry, and daffyduck.jewelry. With 12,548 domains and a median asking price near $21.76, the .jewelry extension offers wide naming variety at low entry cost. Investors can scan this list for inexpensive, easily renewable inventory across a large namespace, while founders can find a short, ownable name for a jewelry-focused brand without competing for premium .com pricing. When comparing these domains, weigh word clarity, length, and how easily each name reads as a jewelry brand.
 
-- Prefer words that fit jewelry retail, design, gifting, or materials
-- Check if the word is memorable beyond the niche TLD itself
-- Be cautious with brand-like terms such as Trex or WiFi
-- Low ask does not offset weak meaning or legal ambiguity
+- 12,548 one-word .jewelry domains, updated daily
+- Median asking price near $21.76 across this set
+- Mix of everyday words, compounds, and pop-culture names
+- Evaluate length, clarity, and jewelry-brand fit before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
