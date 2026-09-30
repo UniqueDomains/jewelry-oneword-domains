@@ -1,6 +1,8 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 8cdecded-2964-4a81-880f-950664bebf75,nations.jewelry,available,51.95,51.95,medium,low,7,spaceship,,,27/09/2026 22:54
+1fb5bc30-378f-48b5-8ca0-ea0f1d200a2d,llewellyn.jewelry,available,10.81,52.01,medium,low,9,porkbun,,,29/09/2026 09:48
 4e9b8d00-03f9-4e97-a090-0ee588d4c412,nefarious.jewelry,available,19.99,84.99,medium,low,9,name.com,,,03/09/2026 14:57
+f9fa0cd8-1340-47cd-8130-2012b59b8adb,funerals.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,29/09/2026 17:32
 60766783-f35a-42ed-bbb8-bbfcca602b04,candescent.jewelry,available,19.99,84.99,medium,low,10,name.com,,,11/08/2026 16:39
 a6be9512-ffd8-4efb-8c9a-1e18a20fc792,auricula.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,21/09/2026 04:20
 7f170c02-3a40-41a4-b024-e81542098b94,psychology.jewelry,available,67.98,69.98,high,low,10,namecheap,,,27/09/2026 06:58
@@ -16,7 +18,7 @@ db087e0d-9f11-40b6-b062-7144ecdee5fe,grubby.jewelry,available,19.99,84.99,medium
 81ea2291-cb8f-4ea4-8677-f89cf5aecec6,aperitif.jewelry,available,64.99,64.99,high,low,8,namesilo,,,19/09/2026 16:32
 c4a8c543-9982-4474-bad7-aded3231965a,lief.jewelry,available,19.99,84.99,medium,low,4,name.com,,,17/08/2026 20:49
 a8fb82cc-887b-4ff6-b9b0-bd8449969aac,chip.jewelry,available,64.99,64.99,high,low,4,namesilo,,,24/09/2026 01:56
-65390ba9-fc88-40ed-ad3a-9ce208f9c039,jimmy.jewelry,available,19.99,,high,low,5,name.com,,,
+65390ba9-fc88-40ed-ad3a-9ce208f9c039,jimmy.jewelry,available,50.2,50.2,high,low,5,cloudflare,,,30/09/2026 00:48
 5c5b0bd4-6086-452e-b5a9-63c7fa23edc4,accumulate.jewelry,available,19.99,84.99,high,low,10,name.com,,,12/08/2026 16:47
 8003e539-0158-49b1-bb96-27288d114dfd,frederic.jewelry,available,64.99,64.99,high,low,8,namesilo,,,25/09/2026 15:15
 c9203523-a5eb-44d0-b891-675bb887a7fb,diesel.jewelry,available,10.81,52.01,high,low,6,porkbun,,,28/09/2026 09:31
@@ -26,8 +28,8 @@ b5a01538-1578-4ac1-9352-2263804f779e,stormed.jewelry,available,64.99,64.99,mediu
 4e81548d-e1c2-4799-b128-c8ae387837d5,gyp.jewelry,available,64.99,64.99,medium,low,3,namesilo,,,14/09/2026 08:05
 277224a5-9eb2-49d3-a2f8-fabbb43336e9,anthropoid.jewelry,available,19.99,84.99,medium,low,10,name.com,,,
 c4ce19a8-9f30-4cde-bc3c-a7d87146d05f,antitumor.jewelry,available,64.99,64.99,high,low,9,namesilo,,,22/09/2026 06:40
+00326c67-6639-4742-bafd-67738a491d9a,cradle.jewelry,available,51.95,51.95,high,low,6,spaceship,,,29/09/2026 06:28
 77aaa902-ecab-4510-a7a9-ceb7fddf3369,carbonara.jewelry,available,64.99,64.99,high,low,9,namesilo,,,24/09/2026 12:46
-375a4038-fef6-4ac3-857b-2fab966c67e9,lens.jewelry,available,,,high,medium,4,,,,
 59a6026f-a714-49e7-8fb2-3c17758e2a05,kidnapped.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,27/09/2026 03:07
 59e15b9f-64df-43ff-a334-f5d48b62427b,infield.jewelry,available,64.99,64.99,high,low,7,namesilo,,,22/09/2026 10:07
 b858972f-6b25-4975-8f56-2609a7feb9fa,letter.jewelry,available,51.95,51.95,high,low,6,spaceship,,,28/09/2026 06:50
@@ -44,50 +46,59 @@ c07ff9f8-0d15-4250-b75c-df5d75d13bd3,linelike.jewelry,available,19.99,84.99,medi
 772d1d8f-7861-4b41-9fc6-8af45013f101,assisted.jewelry,available,51.95,51.95,high,low,8,spaceship,,,28/09/2026 23:42
 5bf09f2e-29e8-4b49-8f9d-6b19cc9cbe98,andrei.jewelry,available,64.99,64.99,high,low,6,namesilo,,,28/09/2026 04:07
 134f5c6b-b780-44d2-936a-11aaadfa8029,ingredient.jewelry,available,67.98,69.98,high,low,10,namecheap,,,24/09/2026 16:51
+4d4d88cb-01fb-40f9-9d45-6edc4a608167,gerber.jewelry,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 09:42
 0aafce23-98a5-4389-ade6-4d6da8da4cba,sinewy.jewelry,available,19.99,84.99,medium,low,6,name.com,,,11/08/2026 02:52
-876be027-4a1d-4d70-8478-b83e03b971e1,buckshee.jewelry,available,19.99,84.99,medium,low,8,name.com,,,11/08/2026 07:33
+876be027-4a1d-4d70-8478-b83e03b971e1,buckshee.jewelry,available,19.99,84.99,high,low,8,name.com,,,11/08/2026 07:33
+fe2d39e7-f662-43d3-9b1a-1a7500eef429,drains.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,29/09/2026 17:12
 93f90346-d4dc-4f52-9a5a-4fc39f1ef463,annoyed.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,22/09/2026 05:18
 2f2cb2c6-6931-4456-b8d8-4aa080ba27a2,blenny.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,24/09/2026 06:00
 c7c4778c-ac0f-4d25-a730-7f1fcbfe47e4,dastard.jewelry,available,19.99,84.99,medium,low,7,name.com,,,13/08/2026 18:32
 2662de3b-ff00-442e-acae-7154b26833c6,gesture.jewelry,available,64.99,64.99,high,low,7,namesilo,,,27/09/2026 13:44
 4c1ba05d-e3b4-425a-808c-b7c63bad4b3b,groping.jewelry,available,19.99,84.99,medium,low,7,name.com,,,20/08/2026 20:18
 fe3f22b9-d1af-4a98-b6d5-d9edb794cf26,unopened.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,12/09/2026 16:14
-9210f7ff-f161-4a18-b99b-cfadb74d4eaf,curd.jewelry,available,67.98,69.98,medium,low,4,namecheap,,,24/09/2026 20:24
+9210f7ff-f161-4a18-b99b-cfadb74d4eaf,curd.jewelry,available,67.98,69.98,high,low,4,namecheap,,,24/09/2026 20:24
+42a4632e-27ba-4a9a-b5fb-28210e3b1d99,cartridge.jewelry,available,51.95,51.95,high,low,9,spaceship,,,29/09/2026 18:14
 6827b8af-5230-4a45-9614-f47f80403b26,gari.jewelry,available,64.99,64.99,high,low,4,namesilo,,,23/09/2026 22:55
 589c7d23-50f8-4e3f-88fa-f41e183deef2,irb.jewelry,available,67.98,69.98,medium,low,3,namecheap,,,29/09/2026 03:06
 33fda287-40f5-45e8-98d6-e92a2263757a,immaterial.jewelry,available,19.99,84.99,medium,low,10,name.com,,,17/08/2026 19:22
 b7ba14a1-d24a-431d-9d96-143c86c0cbf3,basaltic.jewelry,available,19.99,84.99,medium,low,8,name.com,,,08/08/2026 21:29
 a54484c8-42ec-46bf-a864-f88ef05c1ca0,ozark.jewelry,available,67.98,69.98,high,low,5,namecheap,,,28/09/2026 21:30
 7a973797-3dc1-40f0-9bac-7a7b5c50e4c3,yum.jewelry,available,19.99,,high,low,3,name.com,,,
+34a6d19d-b16e-4cf4-93ad-2f720384d99d,hhs.jewelry,available,10.92,53.72,high,low,3,dynadot,,,29/09/2026 12:02
+81ab03b5-ee2e-4799-a8e4-cf1ffce7f5f7,crichton.jewelry,available,10.92,53.72,medium,low,8,dynadot,,,30/09/2026 01:11
 2c09b483-2eeb-40ad-9253-5849174ef2e3,aquarius.jewelry,available,64.99,64.99,high,low,8,namesilo,,,19/09/2026 23:03
 febd4814-d181-4f06-828f-98f1793944b5,emboldened.jewelry,available,19.99,84.99,high,low,10,name.com,,,16/08/2026 10:22
 47fa366c-f43e-416c-b35b-c562400a9664,flowering.jewelry,available,19.99,84.99,high,low,9,name.com,,,18/08/2026 09:02
 499a9f19-a4ba-4118-9917-a4db1c60c3fc,divided.jewelry,available,19.99,84.99,medium,low,7,name.com,,,14/08/2026 13:42
 88d853cc-1b73-4b6c-beb9-36cf12d8a200,fleshy.jewelry,available,19.99,84.99,medium,low,6,name.com,,,18/08/2026 08:02
+8bc147f7-0ad5-4f5a-a386-0fce44f2b09b,premiers.jewelry,available,51.95,51.95,medium,low,8,spaceship,,,29/09/2026 17:25
 26ed2196-372c-4623-b86a-fe419e5933ab,ahmad.jewelry,available,64.99,64.99,high,low,5,namesilo,,,27/09/2026 07:37
 e9da3831-91a1-4991-bf47-74803c10bd82,convicted.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,27/09/2026 23:23
 59c9c220-3fac-4e8f-a891-f29655771a36,prying.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,03/09/2026 21:52
 ff1ee676-8630-4c4f-a04d-ee1197b4613f,parachute.jewelry,available,67.98,69.98,high,low,9,namecheap,,,28/09/2026 13:43
 2e29530d-9b62-4943-b874-cb3195b22941,invigorate.jewelry,available,64.99,64.99,high,low,10,namesilo,,,22/09/2026 04:52
+3354c7d4-e704-45ef-9e71-747f3f58fae6,oblivion.jewelry,available,50.2,50.2,high,low,8,cloudflare,,,29/09/2026 13:19
 f51b3f28-0bde-44b7-9277-95a5a710ff62,affluence.jewelry,available,50.2,50.2,high,low,9,cloudflare,,,28/09/2026 19:21
 76217c41-cfaa-4bda-b638-14fa5b623e07,billfish.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,23/09/2026 16:15
 396546f6-05a9-434f-acb6-9aa91826bc1c,complexity.jewelry,available,67.98,69.98,high,low,10,namecheap,,,24/09/2026 16:49
 a8dc01c7-185f-41f5-a7c2-6f498c4ac9b6,infuriated.jewelry,available,19.99,84.99,medium,low,10,name.com,,,
 175e0c34-b773-44c9-9ea9-e6c8c17483f1,was.jewelry,available,19.99,,medium,low,3,name.com,,,
-584d2b7d-b23f-46a2-b0d4-159ca964a6f8,shelf.jewelry,available,19.99,,high,low,5,name.com,,,
+584d2b7d-b23f-46a2-b0d4-159ca964a6f8,shelf.jewelry,available,10.92,53.72,high,low,5,dynadot,,,30/09/2026 02:43
 e6e3a2bb-de4a-4e59-8a8d-56f23907e49b,basalt.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,22/09/2026 09:53
 adf80f43-4aaf-4fbc-bbe0-a72d607f58fe,lxxiv.jewelry,available,19.99,84.99,medium,low,5,name.com,,,
 34701552-3e67-4f98-9fae-4088360ee9da,banishment.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,22/09/2026 02:06
 8d0cfdbb-2d4c-49ad-9084-0727b7e3d7cc,jazzy.jewelry,available,19.99,84.99,high,low,5,name.com,,,22/08/2026 12:35
 84587adb-fe9b-4d3d-9ec0-4307349355d4,keyboard.jewelry,available,64.99,64.99,high,low,8,namesilo,,,28/09/2026 19:38
+6c42a2a5-a8b8-4e0b-b143-132dcf07cdb0,obituary.jewelry,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 13:33
 5ccb0d93-b3bd-47d8-b200-41461f0abc42,graduation.jewelry,available,64.99,64.99,high,low,10,namesilo,,,24/09/2026 16:27
-152d4679-f8a3-4c4a-993e-b9de40378fff,aliquot.jewelry,available,19.99,84.99,medium,low,7,name.com,,,
+152d4679-f8a3-4c4a-993e-b9de40378fff,aliquot.jewelry,available,19.99,84.99,high,low,7,name.com,,,
 fc7b8e3e-6a69-4cc8-82f7-f32692a941d7,toroidal.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,11/09/2026 17:55
-4b18675b-a19d-4013-9425-25b0c4298c2c,disguise.jewelry,available,19.99,,high,low,8,name.com,,,
+4b18675b-a19d-4013-9425-25b0c4298c2c,disguise.jewelry,available,50.2,50.2,high,low,8,cloudflare,,,29/09/2026 06:07
 0ca8d8d8-a450-4441-88b5-6460da014a8b,clan.jewelry,available,19.99,84.99,high,low,4,name.com,,,22/08/2026 16:05
 6e5bbb56-d97e-4c5d-b86d-b1edc1280cec,capitalist.jewelry,available,19.99,84.99,high,low,10,name.com,,,11/08/2026 17:55
 a14844a6-93ca-45e9-b681-6f915338e5aa,dialog.jewelry,available,64.99,64.99,high,low,6,namesilo,,,24/09/2026 22:13
-4aec720d-c198-414b-bd3e-05d70349661e,robbery.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,25/09/2026 09:07
+4aec720d-c198-414b-bd3e-05d70349661e,robbery.jewelry,available,64.99,64.99,high,low,7,namesilo,,,25/09/2026 09:07
+8a53c310-6bd5-4443-8a36-5e177c549f6d,mosses.jewelry,available,67.98,69.98,low,low,6,namecheap,,,29/09/2026 05:08
 c6f71a46-c338-4e8b-93cb-005f4e5ee4ca,aflare.jewelry,available,19.99,84.99,high,low,6,name.com,,,
 5c001e0d-a78e-440f-9959-55f1ffdf9440,wheaton.jewelry,available,64.99,64.99,high,low,7,namesilo,,,28/09/2026 07:32
 bcb60f13-cebe-40c3-9e7d-853f771e4775,grandchildren.jewelry,available,19.99,84.99,medium,low,13,name.com,,,
@@ -95,28 +106,32 @@ bcb60f13-cebe-40c3-9e7d-853f771e4775,grandchildren.jewelry,available,19.99,84.99
 286d7cfe-41c9-44ed-a6f8-c06889470521,cakes.jewelry,available,51.95,51.95,medium,low,5,spaceship,,,28/09/2026 13:16
 bcf502b4-2b0c-4baa-8d27-773fa9c0a763,motored.jewelry,available,19.99,84.99,medium,low,7,name.com,,,25/08/2026 08:30
 bd639773-1f08-4e89-b01b-4f8ba0be91ca,debts.jewelry,available,51.95,51.95,low,low,5,spaceship,,,28/09/2026 04:25
-930632b6-8984-4bce-a78f-e6f505a38049,surfers.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,20/09/2026 02:01
+930632b6-8984-4bce-a78f-e6f505a38049,surfers.jewelry,available,67.98,69.98,high,low,7,namecheap,,,20/09/2026 02:01
+1cb3dbaf-0b72-40a4-a90c-caea1d33f83f,clears.jewelry,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 17:52
 8a25d54b-4873-4132-a225-c648967f294e,coalition.jewelry,available,19.99,84.99,high,low,9,name.com,,,18/09/2026 07:45
-4222d872-e906-4157-8707-098b24c40dac,exhaust.jewelry,available,19.99,,high,low,7,name.com,,,
+4222d872-e906-4157-8707-098b24c40dac,exhaust.jewelry,available,50.2,50.2,high,low,7,cloudflare,,,29/09/2026 18:34
 b73df853-ce0d-4e3e-afac-b8c995004458,stocks.jewelry,available,51.95,51.95,high,low,6,spaceship,,,28/09/2026 06:47
 755e65f4-3336-421c-966a-daeacbfc1b89,invisible.jewelry,available,67.98,69.98,high,low,9,namecheap,,,25/09/2026 08:03
 fc84a25c-332c-494a-8403-46ed7f823fce,baking.jewelry,available,64.99,64.99,high,low,6,namesilo,,,22/09/2026 16:25
-b6daf9ca-2479-4840-af43-dc7527a24394,jacobite.jewelry,available,10.81,52.01,medium,low,8,porkbun,,,29/09/2026 01:23
+b6daf9ca-2479-4840-af43-dc7527a24394,jacobite.jewelry,available,10.81,52.01,high,low,8,porkbun,,,29/09/2026 01:23
 0e9fe564-4433-4aed-bc75-a362b8b76a57,plodding.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,08/09/2026 21:17
 515491e8-4eef-426e-b479-8104bc4d406c,maxi.jewelry,available,19.99,84.99,high,low,4,name.com,,,24/08/2026 17:46
 e5806330-dd54-43b6-94b9-11ec752d8e60,runs.jewelry,available,64.99,64.99,high,low,4,namesilo,,,17/09/2026 13:37
+fef66cad-937d-4d0b-aad0-18c189f3bce1,oxide.jewelry,available,10.92,53.72,high,low,5,dynadot,,,30/09/2026 02:26
 e436d475-bb06-47ef-9d5d-0c82d93b79c6,joel.jewelry,available,64.99,64.99,high,low,4,namesilo,,,24/09/2026 06:55
+5524c445-c759-4ac0-92f2-a59a5d493c97,trait.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 08:15
 76f9dc45-f469-488d-a97b-ebd2b0b72788,habitual.jewelry,available,19.99,84.99,high,low,8,name.com,,,20/08/2026 21:28
 b13f6df4-4584-4006-a46c-4b44e830c85e,crocked.jewelry,available,19.99,84.99,low,low,7,name.com,,,09/08/2026 15:34
 5126e83f-ff36-444c-9d99-087ec54c1111,maitland.jewelry,available,51.95,51.95,medium,low,8,spaceship,,,28/09/2026 01:57
 e9671a4a-11bc-4d9e-b150-1f6f2318bafd,aggressive.jewelry,available,67.98,69.98,high,low,10,namecheap,,,21/09/2026 22:59
 06220df3-d8cd-47de-8f60-680456519189,blend.jewelry,available,64.99,64.99,high,low,5,namesilo,,,24/09/2026 05:37
-ff850ef7-9ac9-4cd6-acc5-3d4bf40b8361,tongue.jewelry,available,19.99,,high,low,6,name.com,,,
-34f217e2-6f82-4409-8265-b59c7b55c2e3,attained.jewelry,available,19.99,84.99,medium,low,8,name.com,,,07/08/2026 15:07
-c1ae9594-93b6-4c0a-b927-ae98aa70a8f4,physically.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,19/09/2026 14:53
+ff850ef7-9ac9-4cd6-acc5-3d4bf40b8361,tongue.jewelry,available,10.92,53.72,high,low,6,dynadot,,,29/09/2026 20:52
+34f217e2-6f82-4409-8265-b59c7b55c2e3,attained.jewelry,available,19.99,84.99,high,low,8,name.com,,,07/08/2026 15:07
+5b0aa763-f00c-4e84-993d-0c3fa4876ea3,lays.jewelry,available,67.98,69.98,medium,low,4,namecheap,,,29/09/2026 05:27
+c1ae9594-93b6-4c0a-b927-ae98aa70a8f4,physically.jewelry,available,64.99,64.99,high,low,10,namesilo,,,19/09/2026 14:53
 ac63415e-c851-449a-85e1-9d85f52375ad,westcott.jewelry,available,19.99,,medium,low,8,name.com,,,
 953fa9e3-60bf-49a5-9771-75e814b28183,dapper.jewelry,available,19.99,84.99,high,low,6,name.com,,,13/08/2026 17:25
-fe263ede-cd6f-40d2-b718-386e7bfa0e15,accessary.jewelry,available,19.99,84.99,medium,low,9,name.com,,,
+fe263ede-cd6f-40d2-b718-386e7bfa0e15,accessary.jewelry,available,19.99,84.99,high,low,9,name.com,,,
 c4757c79-3fa1-46d8-84f9-de6d87573ab6,pensacola.jewelry,available,64.99,64.99,high,low,9,namesilo,,,25/09/2026 23:59
 65430ac7-2995-4177-8bb8-4944cc41793d,slab.jewelry,available,10.81,52.01,high,low,4,porkbun,,,28/09/2026 20:30
 75c0663d-0c87-4ec3-8c39-7b112318bf23,salim.jewelry,available,67.98,69.98,high,low,5,namecheap,,,19/09/2026 04:37
@@ -131,29 +146,30 @@ abcf5c3d-d7c9-4b27-840d-d0a95d058ef8,bale.jewelry,available,64.99,64.99,medium,l
 49af1039-db1f-4a5d-8f43-19469a8876b4,apnoeic.jewelry,available,19.99,84.99,medium,low,7,name.com,,,06/08/2026 00:46
 0b1b0ccb-9be2-4d99-b75b-a96b3bc04aee,strengths.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,18/09/2026 22:25
 1ca6a01a-3a00-4fa1-902e-1acee3c11c53,commands.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,28/09/2026 17:45
-66a036d4-e947-4261-ae28-23d5572fe347,disco.jewelry,available,19.99,,high,low,5,name.com,,,
+66a036d4-e947-4261-ae28-23d5572fe347,disco.jewelry,available,64.99,64.99,high,low,5,namesilo,,,29/09/2026 15:27
 e45669fd-640b-4557-842a-398652ea6e8f,rehab.jewelry,available,10.81,52.01,high,low,5,porkbun,,,28/09/2026 22:56
 30912f20-a0bb-482f-af49-51599b16cba1,listening.jewelry,available,64.99,64.99,high,low,9,namesilo,,,25/09/2026 09:00
 29d80669-db02-4288-bf60-a8e90faca680,devotional.jewelry,available,19.99,84.99,high,low,10,name.com,,,14/08/2026 05:15
-19dcd040-f14d-4913-a071-5493ded9f890,prettily.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,15/09/2026 21:22
+19dcd040-f14d-4913-a071-5493ded9f890,prettily.jewelry,available,67.98,69.98,high,low,8,namecheap,,,15/09/2026 21:22
 2d74dc71-a376-4b35-a1f9-d1c14f157ba4,deprived.jewelry,available,19.99,84.99,medium,low,8,name.com,,,14/08/2026 02:45
 69edc9fd-c811-41e6-8e3a-bd57f9421186,koranic.jewelry,available,19.99,84.99,medium,low,7,name.com,,,22/08/2026 16:59
 3bde72dc-8c4d-43e5-ba45-37caf19fd262,einstein.jewelry,available,51.95,51.95,high,low,8,spaceship,,,28/09/2026 20:04
 8ad64cf0-1308-4d44-8cc4-f1360c0aeabc,stalk.jewelry,available,67.98,69.98,high,low,5,namecheap,,,19/09/2026 07:14
-b2f857b8-8dfa-46e3-a9e8-22c5a10d6628,bodied.jewelry,available,19.99,84.99,medium,low,6,name.com,,,10/08/2026 16:44
+b2f857b8-8dfa-46e3-a9e8-22c5a10d6628,bodied.jewelry,available,19.99,84.99,high,low,6,name.com,,,10/08/2026 16:44
 9d62d11b-d677-485d-bffb-44b11c93132c,researchers.jewelry,available,64.99,64.99,medium,low,11,namesilo,,,18/09/2026 17:37
 7bed1d82-7bae-4373-9ba0-1c57512ef3ef,recreation.jewelry,available,67.98,69.98,high,low,10,namecheap,,,24/09/2026 23:18
 ac23cdea-9d5e-495e-959e-853862c4db40,progressing.jewelry,available,19.99,,medium,low,11,name.com,,,
 8c752882-fae9-4cf6-8084-752815849601,anklebone.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,19/09/2026 09:43
+ab8749d1-e998-44ee-b9bd-cbd594d5c7df,lms.jewelry,available,51.95,51.95,high,low,3,spaceship,,,29/09/2026 15:35
 c98d42fd-b9f8-4deb-94a3-78869fd3cd1f,responds.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,20/09/2026 08:24
 848db176-f444-4ff9-9789-17bf55647548,caesar.jewelry,available,64.99,64.99,high,low,6,namesilo,,,27/09/2026 03:27
 b3ea7873-1fed-4e0c-8bc9-2fe39f827d18,shield.jewelry,available,64.99,64.99,high,low,6,namesilo,,,27/09/2026 12:05
-2f844ad1-4cb1-4918-8de2-1de4562b42ce,zilch.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,03/09/2026 22:42
+2f844ad1-4cb1-4918-8de2-1de4562b42ce,zilch.jewelry,available,64.99,64.99,high,low,5,namesilo,,,03/09/2026 22:42
 2415ef25-c33d-445a-8107-d8f7fc30c920,suspended.jewelry,available,19.99,84.99,medium,low,9,name.com,,,11/09/2026 04:55
 44177ada-d7e1-45b6-accb-eda8c97adf4a,intuition.jewelry,available,10.92,53.72,high,low,9,dynadot,,,28/09/2026 19:28
 60d91274-e16f-4b29-b25f-5ab868d6d67e,greeting.jewelry,available,10.92,53.72,high,low,8,dynadot,,,28/09/2026 14:22
 497a05f7-e992-4350-8f4b-073e7ec49a47,wanly.jewelry,available,67.98,69.98,low,low,5,namecheap,,,16/09/2026 11:19
-c054935f-5471-46fc-80f0-6975ec0f22e1,tippy.jewelry,available,19.99,84.99,medium,low,5,name.com,,,13/08/2026 04:55
+c054935f-5471-46fc-80f0-6975ec0f22e1,tippy.jewelry,available,19.99,84.99,high,low,5,name.com,,,13/08/2026 04:55
 279ac3be-ab59-431f-9be1-800c354f757f,novi.jewelry,available,67.98,69.98,high,low,4,namecheap,,,28/09/2026 21:12
 81c4595c-b68f-400e-be8f-993528810eca,aviator.jewelry,available,67.98,69.98,high,low,7,namecheap,,,17/09/2026 13:09
 135ff3fa-1329-4c8f-ad7b-1703ebe5018d,changeless.jewelry,available,19.99,84.99,high,low,10,name.com,,,12/08/2026 01:58
@@ -164,10 +180,10 @@ a9097b24-90e4-4768-91d3-526911759eec,tryst.jewelry,available,67.98,69.98,high,lo
 9480b593-e94a-4bad-8289-b5fc4d93be66,ditch.jewelry,available,64.99,64.99,high,low,5,namesilo,,,24/09/2026 23:15
 f64ef889-8445-4257-8848-5f18dfd0e681,seagirt.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,10/09/2026 00:39
 54c60b01-e41c-4f59-842c-2f49e527a5b6,chekov.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 15:28
-f046cca3-bdcc-4b78-b7b4-7852e316eb8f,push.jewelry,available,19.99,,high,low,4,name.com,,,
+f046cca3-bdcc-4b78-b7b4-7852e316eb8f,push.jewelry,available,51.95,51.95,high,medium,4,spaceship,,,29/09/2026 12:15
 80d80bf1-2a12-4ea3-a799-b323d44242bf,markovian.jewelry,available,19.99,84.99,medium,low,9,name.com,,,24/08/2026 16:06
 84b220f2-b1cd-4301-a243-9e028519d35b,sculpted.jewelry,available,19.99,84.99,high,low,8,name.com,,,20/08/2026 18:50
-4c5f5a20-b8a5-4c45-9a33-df8254c95e31,farmington.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,28/09/2026 05:41
+4c5f5a20-b8a5-4c45-9a33-df8254c95e31,farmington.jewelry,available,64.99,64.99,high,low,10,namesilo,,,28/09/2026 05:41
 d55b622a-4e92-4538-b942-def179ff5317,clustered.jewelry,available,19.99,84.99,high,low,9,name.com,,,
 d938f246-8332-4c74-9359-622caee7ffc8,depends.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,25/09/2026 20:36
 d9270d20-dc64-4bc6-9555-b8281d69bbed,quiver.jewelry,available,67.98,69.98,high,low,6,namecheap,,,11/09/2026 19:13
@@ -175,15 +191,17 @@ d9270d20-dc64-4bc6-9555-b8281d69bbed,quiver.jewelry,available,67.98,69.98,high,l
 5b6fbd0a-3240-44f7-a65d-48fff3325a81,observer.jewelry,available,64.99,64.99,high,low,8,namesilo,,,27/09/2026 03:30
 3adb87fb-1c24-4fba-8b53-dc2c1f59d19c,whips.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,17/09/2026 19:42
 473344a0-614d-4560-a338-cd98ba068998,dickie.jewelry,available,19.99,84.99,medium,low,6,name.com,,,14/08/2026 06:30
+38d440dd-a2d2-42e9-9ea0-e81ec74e1e4f,rhino.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 20:11
 c4374359-833e-4a23-b3b6-ff025daef825,coloring.jewelry,available,19.99,84.99,high,low,8,name.com,,,12/08/2026 17:31
 d7108df8-b024-4893-876e-3f0890220cc1,opium.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,29/09/2026 01:45
 5845fe0a-ca14-4d8d-83c3-8704c68ed713,underclass.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,12/09/2026 07:22
 9c801406-d8d3-451a-a246-3bb9f9fbcee8,blighted.jewelry,available,19.99,84.99,medium,low,8,name.com,,,10/08/2026 14:17
 5e74fc46-f209-4c70-8e08-b1f5c2c8e88a,modeller.jewelry,available,19.99,,high,low,8,name.com,,,
 6365b6c0-106e-4a89-8c75-ce65a9ce6473,thirdhand.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,11/09/2026 13:59
+90476650-a41c-4712-9115-95ce6ce8d9ed,milestone.jewelry,available,64.99,64.99,high,low,9,namesilo,,,30/09/2026 02:17
 668c8921-d26c-46e7-bacc-c6956cf407c4,aground.jewelry,available,19.99,84.99,medium,low,7,name.com,,,
 730d5333-a593-4e20-bd09-835870dbebd1,satiny.jewelry,available,64.99,64.99,high,low,6,namesilo,,,09/09/2026 21:41
-bd673fe0-b3c2-4aa8-95eb-69a1299cd8f6,boned.jewelry,available,19.99,84.99,medium,low,5,name.com,,,10/08/2026 18:34
+bd673fe0-b3c2-4aa8-95eb-69a1299cd8f6,boned.jewelry,available,19.99,84.99,high,low,5,name.com,,,10/08/2026 18:34
 e4f347d2-5a0e-4ccc-8b09-cfeea436a8e7,sliding.jewelry,available,64.99,64.99,high,low,7,namesilo,,,27/09/2026 22:47
 2474abad-c361-43aa-874a-ea7517ad2863,approval.jewelry,available,64.99,64.99,high,low,8,namesilo,,,08/09/2026 15:18
 efb9dfee-43af-477d-8e96-27f77d30b334,plumed.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,08/09/2026 21:36
@@ -200,7 +218,8 @@ c5661354-52e5-4c7b-b387-b8a2a6942fa9,closest.jewelry,available,51.95,51.95,mediu
 a019c91f-0f30-478b-aee7-f9de0df0d410,unmixed.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,12/09/2026 06:02
 8b59a3d6-22ca-4185-83bd-dd71caa5a1d5,rang.jewelry,available,19.99,,high,low,4,name.com,,,
 502d3a0b-cbd8-4698-af12-dee5c6ab40a5,mcmaster.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,29/09/2026 01:24
-9098f328-3ed5-4e0d-8857-13eb5037b94c,diving.jewelry,available,19.99,,high,low,6,name.com,,,
+cf7f250b-7895-440e-98c7-5cc0aadad1a0,ministers.jewelry,available,10.92,53.72,medium,low,9,dynadot,,,29/09/2026 17:05
+9098f328-3ed5-4e0d-8857-13eb5037b94c,diving.jewelry,available,64.99,64.99,high,low,6,namesilo,,,29/09/2026 16:25
 1ace28ed-3e68-4416-aee2-29a466eb520d,downhill.jewelry,available,19.99,84.99,medium,low,8,name.com,,,13/08/2026 21:49
 d24eaa95-c18a-494c-98d3-6675ea112c54,affliction.jewelry,available,67.98,69.98,medium,low,10,namecheap,,,17/09/2026 14:39
 d4202c40-75ea-48b4-b1ab-c98fadbaad05,boehme.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 03:32
@@ -213,12 +232,14 @@ b7d69f04-68ac-4919-b6a2-bbd7468d82de,alimental.jewelry,available,19.99,84.99,med
 1b3fe6d5-ae64-40d7-8bbd-4cde8657c7e8,bethlehem.jewelry,available,67.98,69.98,high,low,9,namecheap,,,22/09/2026 18:15
 4b1fecb2-7aa3-4cb6-924f-30c8dcee112d,urinary.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,12/09/2026 23:44
 8f6146a0-8ad9-46f8-82d2-5874fcf51167,ballpark.jewelry,available,64.99,64.99,high,low,8,namesilo,,,19/09/2026 22:25
-f668f46a-ad90-440a-b1c3-d0591958aefb,stephenson.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,25/09/2026 06:30
+f668f46a-ad90-440a-b1c3-d0591958aefb,stephenson.jewelry,available,64.99,64.99,high,low,10,namesilo,,,25/09/2026 06:30
 518fc94c-1adb-43a4-b9dc-8812e338e238,reptile.jewelry,available,64.99,64.99,high,low,7,namesilo,,,09/09/2026 14:41
 63337ae0-44cf-4afb-a005-90c4641e0935,metabolic.jewelry,available,19.99,84.99,high,low,9,name.com,,,24/08/2026 21:26
 f52038b5-6327-4d35-8b91-a23d0f74aeb5,unlatched.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,12/09/2026 01:38
 6e411247-77a9-4f2d-ada6-614df3638494,active.jewelry,available,51.95,51.95,high,low,6,spaceship,,,28/09/2026 09:11
 354b2609-9f81-4675-8b53-a6df5904121e,approver.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,19/09/2026 22:24
+a3494e16-cd85-43a1-aa22-5b73561c4979,coping.jewelry,available,10.92,53.72,high,low,6,dynadot,,,29/09/2026 18:27
+b3800abc-418c-4f52-a90b-e962d147f6f5,superfund.jewelry,available,50.2,50.2,high,low,9,cloudflare,,,29/09/2026 08:11
 af47b1ff-7c6a-4936-8c86-9018083f4fc2,proximo.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,09/09/2026 04:40
 16557795-fa82-4f45-91f3-d7732f3656fc,spirea.jewelry,available,67.98,69.98,medium,low,6,namecheap,,,20/09/2026 17:27
 13d442fb-24ec-49f2-a363-456af61b89c1,socialised.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,10/09/2026 13:14
@@ -230,6 +251,7 @@ a28c6925-8e6b-4991-b755-ee997ed29675,dis.jewelry,available,64.99,64.99,high,low,
 456ec501-47d2-4f2c-9345-5d3f2e0c3de8,memorably.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,15/09/2026 14:01
 f2fa7f1b-7e2b-4471-8578-da14dde3f432,dissident.jewelry,available,19.99,84.99,medium,low,9,name.com,,,14/08/2026 12:30
 bf07df86-46cf-4fe8-81a6-603891b5d5f2,laughed.jewelry,available,10.92,53.72,medium,low,7,dynadot,,,28/09/2026 12:59
+66a9d190-dc94-4a47-be7d-77963303e8d2,lambeth.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,29/09/2026 04:58
 8a986f50-04aa-4cae-bb7b-0b961a232a35,inflexible.jewelry,available,19.99,84.99,medium,low,10,name.com,,,22/08/2026 04:32
 d50f4f1d-e034-4207-adac-c82abb988308,columbo.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,18/09/2026 19:32
 3a2e21dc-909b-47b2-9dfc-4ab9cdc5e05c,objector.jewelry,available,19.99,84.99,medium,low,8,name.com,,,14/08/2026 12:43
@@ -240,17 +262,19 @@ f0477ed9-80d9-43cb-aa9e-0608ab8a18c2,apoptosis.jewelry,available,67.98,69.98,med
 49f9389b-2cf2-4af5-bb73-f710e28933b6,flint.jewelry,available,19.99,84.99,high,low,5,name.com,,,18/08/2026 08:20
 d3a9ef06-6424-4a41-af12-c6e8abefee7d,inglorious.jewelry,available,19.99,84.99,medium,low,10,name.com,,,21/08/2026 18:25
 07ddbc27-fe70-447d-87b5-37b4efff613f,barbell.jewelry,available,64.99,64.99,high,low,7,namesilo,,,22/09/2026 04:49
+15320e05-efa5-49a6-97e8-3be05ba568e4,technologist.jewelry,available,51.95,51.95,high,low,12,spaceship,,,30/09/2026 02:33
 bea7e8e1-43b2-484b-aaf7-7b37eb1ba086,javan.jewelry,available,19.99,84.99,high,low,5,name.com,,,22/08/2026 12:30
 facfb67f-4851-4de2-b532-39c6d88bd4e9,assignor.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,20/09/2026 16:27
-884861a2-1b45-4cd5-b982-a635d3458ea1,discord.jewelry,available,19.99,,high,medium,7,name.com,,,
+884861a2-1b45-4cd5-b982-a635d3458ea1,discord.jewelry,available,64.99,64.99,high,medium,7,namesilo,,,29/09/2026 15:32
 67261c6a-9ae3-45a4-aaa1-0fa1a94c7b70,misleading.jewelry,available,19.99,84.99,medium,low,10,name.com,,,25/08/2026 01:34
 9d475a5e-2e82-4aea-9eb6-a73de74afabe,atrium.jewelry,available,19.99,84.99,high,low,6,name.com,,,21/09/2026 00:47
 68f62dc4-a8ee-428d-a0a2-657855c1cdbc,flak.jewelry,available,19.99,84.99,medium,low,4,name.com,,,
 f60b39f9-fdcf-4085-8f3d-f40bddba09bf,decreasing.jewelry,available,19.99,84.99,medium,low,10,name.com,,,13/08/2026 22:12
-b4ffc896-a72a-483c-a5a6-70ba8ae0c821,sextet.jewelry,available,19.99,84.99,medium,low,6,name.com,,,
+f86149a0-697e-4ffd-bcef-3775861298cc,dimensions.jewelry,available,51.95,51.95,medium,low,10,spaceship,,,29/09/2026 04:43
+b4ffc896-a72a-483c-a5a6-70ba8ae0c821,sextet.jewelry,available,19.99,84.99,high,low,6,name.com,,,
 2082b76b-4716-45c1-8d52-52186611ca87,fall.jewelry,available,10.92,53.72,high,low,4,dynadot,,,28/09/2026 09:35
 94aa85ed-fca8-462a-bb67-1cb3fde2aefe,thallium.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,20/09/2026 23:51
-e5419d0a-f530-4a00-a4dc-764d84b77229,booze.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,24/09/2026 07:21
+e5419d0a-f530-4a00-a4dc-764d84b77229,booze.jewelry,available,64.99,64.99,high,low,5,namesilo,,,24/09/2026 07:21
 698e5ed4-4369-42d4-a3ff-08d1e7d49255,compute.jewelry,available,64.99,64.99,high,low,7,namesilo,,,19/09/2026 14:03
 094ec1ce-d34a-4a6a-8f61-29efeaea90f1,greene.jewelry,available,64.99,64.99,high,low,6,namesilo,,,25/09/2026 06:41
 ef0c4664-4eb8-4a37-be4f-745529c35842,shirt.jewelry,available,19.99,,high,low,5,name.com,,,
@@ -261,26 +285,27 @@ f42ecf9c-fcc7-485d-8800-16c94eedda47,chanted.jewelry,available,19.99,84.99,mediu
 ddb6d93d-39a1-4a7e-b548-cdf8ced0ce32,determine.jewelry,available,19.99,,high,low,9,name.com,,,
 1143c955-ecd6-4de3-9f9b-5caec1d90755,stitched.jewelry,available,64.99,64.99,high,low,8,namesilo,,,10/09/2026 05:09
 f1046799-2152-4571-b00a-707f95c78a17,quizzes.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,18/09/2026 17:07
-d93ca5a8-3f96-4ee8-b7eb-71f7111c7501,echo.jewelry,available,19.99,,high,medium,4,name.com,,,
+d93ca5a8-3f96-4ee8-b7eb-71f7111c7501,echo.jewelry,available,64.99,64.99,high,medium,4,namesilo,,,29/09/2026 17:37
 5473c0d6-6a7a-43a6-9aaf-98353be08a7f,polly.jewelry,available,51.95,51.95,high,low,5,spaceship,,,28/09/2026 07:34
 5b197608-e1e4-41a2-bdd2-d37d644a1f18,bethune.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,23/09/2026 11:17
+630d5baa-e1ed-4ee1-8cac-bbf87cad8882,tombstone.jewelry,available,64.99,64.99,high,low,9,namesilo,,,29/09/2026 12:58
 2f48ba05-9cda-4d02-874d-f77883cc5b1b,barefooted.jewelry,available,19.99,84.99,medium,low,10,name.com,,,08/08/2026 18:59
 3c00e7f1-60a6-451e-80e3-c19355c00f47,following.jewelry,available,19.99,84.99,high,low,9,name.com,,,18/08/2026 10:22
 e62833dc-76cb-47f6-b820-cd879d47f13e,dip.jewelry,available,64.99,64.99,high,low,3,namesilo,,,24/09/2026 10:33
 3e96ed41-97cc-4ebd-b49c-f1a1b8ea8175,crafts.jewelry,available,64.99,64.99,high,low,6,namesilo,,,19/09/2026 02:50
 ddc8b7bd-129f-4c23-96a0-27e54976b38f,imposing.jewelry,available,19.99,84.99,high,low,8,name.com,,,08/08/2026 20:16
-224e4efd-7fd7-4646-819f-a12b63c584de,bao.jewelry,available,10.92,53.72,medium,low,3,dynadot,,,28/09/2026 21:38
-45002432-76ee-40e7-b52b-187543d2a652,des.jewelry,available,19.99,,high,low,3,name.com,,,
+224e4efd-7fd7-4646-819f-a12b63c584de,bao.jewelry,available,10.92,53.72,high,low,3,dynadot,,,28/09/2026 21:38
+45002432-76ee-40e7-b52b-187543d2a652,des.jewelry,available,64.99,64.99,high,low,3,namesilo,,,29/09/2026 14:04
 db7dcef9-2ee8-475c-847f-17f17b139300,justified.jewelry,available,64.99,64.99,high,low,9,namesilo,,,25/09/2026 12:26
 dfbfd217-7f4a-4f86-8630-be30aa6e4d78,bender.jewelry,available,67.98,69.98,high,low,6,namecheap,,,23/09/2026 07:44
 0121ec6e-97ac-45cf-8dd1-d1c42f2f76cc,producing.jewelry,available,19.99,,medium,low,9,name.com,,,
 2c2baf5a-aae4-41a2-995f-36cd50d1931b,kinds.jewelry,available,67.98,69.98,medium,low,5,namecheap,,,25/09/2026 19:57
 fe609447-f0e9-458c-b3ce-7ef6c67397aa,blazer.jewelry,available,64.99,64.99,high,low,6,namesilo,,,24/09/2026 05:03
 e19698f5-633a-45b9-a359-62cf782c35fb,dissociate.jewelry,available,19.99,84.99,medium,low,10,name.com,,,14/08/2026 11:11
-b8c61186-4815-4c88-84a2-e65203fae11f,hubbub.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,24/09/2026 10:52
+b8c61186-4815-4c88-84a2-e65203fae11f,hubbub.jewelry,available,64.99,64.99,high,low,6,namesilo,,,24/09/2026 10:52
 f415df38-51e1-4d9e-8910-67abead4897c,pritchard.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,28/09/2026 12:14
 04837409-7f78-4b6b-845c-3cc6a3bff5be,elders.jewelry,available,51.95,51.95,low,low,6,spaceship,,,28/09/2026 08:45
-170c5e3c-082b-4546-87bb-f7f73c9ec686,glasses.jewelry,available,19.99,,high,low,7,name.com,,,
+170c5e3c-082b-4546-87bb-f7f73c9ec686,glasses.jewelry,available,67.98,69.98,high,low,7,namecheap,,,29/09/2026 18:45
 e0515967-e5c5-4581-a7b0-8b7abd557534,lidless.jewelry,available,19.99,84.99,medium,low,7,name.com,,,23/08/2026 01:17
 b4fe8391-f226-4b3b-802a-986c9980ab98,bet.jewelry,available,64.99,64.99,high,medium,3,namesilo,,,23/09/2026 10:50
 b398390a-42de-4b1e-a635-58374ef40100,seedcase.jewelry,available,19.99,84.99,medium,low,8,name.com,,,12/08/2026 15:07
@@ -295,19 +320,20 @@ f776b625-61f2-4741-9c97-1d8cc2faf5e2,looker.jewelry,available,19.99,84.99,high,l
 d9c44ced-4a3d-46e1-9a03-c62c3b8eebbd,patches.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,17/09/2026 08:45
 4e7ddda3-ee65-4e33-9de2-6a729858ea96,heptad.jewelry,available,19.99,84.99,medium,low,6,name.com,,,
 eb73bc38-c2c5-4d54-9bbe-1e936b66288f,plates.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,27/09/2026 02:22
-5d0f533a-bdbc-406d-8194-b88be39e7deb,wentworth.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,25/09/2026 21:47
+5d0f533a-bdbc-406d-8194-b88be39e7deb,wentworth.jewelry,available,64.99,64.99,high,low,9,namesilo,,,25/09/2026 21:47
 38b31c1a-cbbd-4d5e-8cb1-1b50202f6398,mahmoud.jewelry,available,51.95,51.95,medium,low,7,spaceship,,,29/09/2026 04:11
 da5b1135-7155-4cc1-93d6-9ab6996f2fc3,scenic.jewelry,available,64.99,64.99,high,low,6,namesilo,,,09/09/2026 22:58
 cc07219c-fc5a-489f-ace4-e24eec7e00b6,extends.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,18/09/2026 17:32
 b9d7964a-c5e7-4cab-a6fe-3e553ca71090,eared.jewelry,available,19.99,84.99,medium,low,5,name.com,,,14/08/2026 14:39
-0d9c1513-de21-4be4-bbb7-dbce81f70594,career.jewelry,available,19.99,,high,low,6,name.com,,,
+a10d5602-a565-4e85-bfb1-3e18e292d29c,cleo.jewelry,available,64.99,64.99,high,low,4,namesilo,,,29/09/2026 15:49
+0d9c1513-de21-4be4-bbb7-dbce81f70594,career.jewelry,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 05:57
 3f3c2f63-6cd4-484f-9afa-99817f7bfd6c,queensland.jewelry,available,64.99,64.99,high,low,10,namesilo,,,25/09/2026 10:12
 ebf08ca4-8824-4f5f-92a1-00306bc2724c,dyke.jewelry,available,19.99,84.99,medium,low,4,name.com,,,11/08/2026 11:35
 7794f790-b404-484d-80c5-427936778d92,brakes.jewelry,available,64.99,64.99,high,low,6,namesilo,,,24/09/2026 08:09
 1bf22b27-9cbe-4e4f-9f4c-bc8ee5a38054,smartest.jewelry,available,64.99,64.99,high,low,8,namesilo,,,20/09/2026 22:26
 5554b075-7e67-42c6-b4f7-492279ed715a,dom.jewelry,available,51.95,51.95,high,medium,3,spaceship,,,28/09/2026 07:01
 6f2e6cd6-75ce-4bf8-b6ce-011b17453e8e,hook.jewelry,available,67.98,69.98,high,low,4,namecheap,,,28/09/2026 18:24
-67396230-9033-4a62-927b-f5744fb4d280,aorta.jewelry,available,67.98,69.98,medium,low,5,namecheap,,,19/09/2026 16:04
+67396230-9033-4a62-927b-f5744fb4d280,aorta.jewelry,available,67.98,69.98,high,low,5,namecheap,,,19/09/2026 16:04
 838e1e59-116e-4808-af35-a606bd48271d,footsteps.jewelry,available,51.95,51.95,medium,low,9,spaceship,,,28/09/2026 12:42
 ca7681d9-609c-477e-bff1-c1869c3e446e,polyhedral.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,08/09/2026 23:24
 39327e36-372c-4243-8361-5374fdc4f3e9,rudy.jewelry,available,64.99,64.99,high,low,4,namesilo,,,27/09/2026 07:02
@@ -329,6 +355,7 @@ a0eb0346-6527-478f-ae7b-628e7afa06a2,geriatric.jewelry,available,19.99,84.99,med
 f059991a-9bab-4944-90a6-8a118dcaef41,ante.jewelry,available,67.98,69.98,medium,low,4,namecheap,,,19/09/2026 12:39
 9af3b3dd-1f20-4c55-9f9d-cfd69f62fdbd,teary.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,11/09/2026 09:50
 54163c3b-a90b-4a39-9e13-995defe45959,delicious.jewelry,available,64.99,64.99,high,low,9,namesilo,,,24/09/2026 05:16
+448cea7b-cf11-4dca-922e-6983ddbb8a53,recreational.jewelry,available,50.2,50.2,high,low,12,cloudflare,,,29/09/2026 10:15
 60c6ab3c-c787-4121-9b10-f16c7ba47ebd,aboulia.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,16/09/2026 16:42
 07aa815c-e805-46ee-af38-e9d9abb4e5db,baboon.jewelry,available,64.99,64.99,high,low,6,namesilo,,,21/09/2026 12:58
 acad1521-f676-49d2-9e06-8f91d591ef16,snafu.jewelry,available,19.99,84.99,medium,low,5,name.com,,,18/08/2026 17:20
@@ -345,7 +372,7 @@ b0392839-6e7c-4ba5-9ce6-9b13a0bfbae0,mines.jewelry,available,10.81,52.01,medium,
 0806515c-db9c-4c96-8720-704437f4f3e3,standardize.jewelry,available,19.99,,high,low,11,name.com,,,
 9f80e854-303c-4b83-888d-4a02309fa715,preserve.jewelry,available,64.99,64.99,high,low,8,namesilo,,,24/09/2026 17:28
 5290ea92-09b5-4e1e-9f41-de0fc4e9e546,carboxylic.jewelry,available,19.99,84.99,medium,low,10,name.com,,,11/08/2026 18:46
-0502e0b8-fafa-440d-a9e9-de45a6832557,callable.jewelry,available,19.99,84.99,medium,low,8,name.com,,,11/08/2026 14:26
+0502e0b8-fafa-440d-a9e9-de45a6832557,callable.jewelry,available,19.99,84.99,high,low,8,name.com,,,11/08/2026 14:26
 086006a5-f74c-41bb-8752-1ea805edb468,say.jewelry,available,19.99,,high,low,3,name.com,,,
 6a42a0c9-2952-45f6-83d7-192000c508a9,ethyne.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,17/09/2026 00:23
 b63d0664-4fb8-4807-b2a8-e52062c68796,annealing.jewelry,available,64.99,64.99,high,low,9,namesilo,,,11/09/2026 10:58
@@ -356,11 +383,11 @@ c6b1c8ec-1065-4cea-9a14-03e5f5b927da,lifelessly.jewelry,available,19.99,84.99,lo
 b1358591-0e53-4486-9390-b1a55ee9083c,citizens.jewelry,available,64.99,64.99,high,low,8,namesilo,,,18/09/2026 15:13
 c1fc81d8-22ad-4120-ae35-a79f29a99752,hale.jewelry,available,19.99,84.99,high,low,4,name.com,,,20/08/2026 22:23
 93b2e926-ec85-41e9-9c82-634d170bc96b,barbu.jewelry,available,67.98,69.98,medium,low,5,namecheap,,,22/09/2026 05:04
-a50937ed-888a-4c93-85f7-b1fc90ecd5aa,jacks.jewelry,available,19.99,,high,low,5,name.com,,,
-0484e004-4633-4402-9e72-d04886199494,epidermal.jewelry,available,19.99,84.99,medium,low,9,name.com,,,13/08/2026 13:06
-a6be4495-7645-429d-97e0-de447f25b312,alumina.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,18/09/2026 15:12
+a50937ed-888a-4c93-85f7-b1fc90ecd5aa,jacks.jewelry,available,51.95,51.95,high,low,5,spaceship,,,30/09/2026 00:29
+0484e004-4633-4402-9e72-d04886199494,epidermal.jewelry,available,19.99,84.99,high,low,9,name.com,,,13/08/2026 13:06
+a6be4495-7645-429d-97e0-de447f25b312,alumina.jewelry,available,67.98,69.98,high,low,7,namecheap,,,18/09/2026 15:12
 789cb955-2d5f-4b7e-b97a-bd3902d1d51e,method.jewelry,available,64.99,64.99,high,low,6,namesilo,,,27/09/2026 14:54
-8e69395d-25da-46af-934e-1bdca20708e0,biblical.jewelry,available,19.99,84.99,medium,low,8,name.com,,,09/08/2026 18:53
+8e69395d-25da-46af-934e-1bdca20708e0,biblical.jewelry,available,19.99,84.99,high,low,8,name.com,,,09/08/2026 18:53
 3e55f3cf-7e9a-4197-9f29-2eb41a2f4591,thrilled.jewelry,available,64.99,64.99,high,low,8,namesilo,,,11/09/2026 14:36
 df4fd38c-e949-41b6-a133-664b916c1159,dysprosium.jewelry,available,67.98,69.98,medium,low,10,namecheap,,,20/09/2026 23:28
 5abaf79e-aaa6-4b10-9310-9b951b2e4482,erudite.jewelry,available,19.99,84.99,high,low,7,name.com,,,17/08/2026 13:10
@@ -369,20 +396,23 @@ df4fd38c-e949-41b6-a133-664b916c1159,dysprosium.jewelry,available,67.98,69.98,me
 1b6210e7-6451-4a9e-bcd6-5e9dcf6dc146,screwed.jewelry,available,51.95,51.95,medium,low,7,spaceship,,,28/09/2026 15:59
 cda595fd-ab14-4df2-9f87-805900eb9673,promotion.jewelry,available,51.95,51.95,high,low,9,spaceship,,,28/09/2026 18:56
 2131020e-27fb-4e8c-9aa1-e16c3c190fc2,quinn.jewelry,available,67.98,69.98,high,low,5,namecheap,,,25/09/2026 21:10
-053cdfaa-790c-4139-ace4-99ef1d56fca3,discredit.jewelry,available,19.99,,high,low,9,name.com,,,
+053cdfaa-790c-4139-ace4-99ef1d56fca3,discredit.jewelry,available,50.2,50.2,high,low,9,cloudflare,,,29/09/2026 15:37
 fedf7a0d-d2fa-4ae5-b390-6d5217816d1c,grant.jewelry,available,64.99,64.99,high,low,5,namesilo,,,27/09/2026 12:18
 ff776acd-c16c-401d-b0cf-d0e8efb2aad0,festal.jewelry,available,19.99,84.99,medium,low,6,name.com,,,18/08/2026 02:13
 b1b3d0e8-9157-414f-ad85-d54ea2b39d75,abvolt.jewelry,available,67.98,69.98,medium,low,6,namecheap,,,16/09/2026 19:39
 9c1d980e-2c25-4af5-ae7d-c143ead30760,francis.jewelry,available,67.98,69.98,high,low,7,namecheap,,,25/09/2026 13:36
 5a586e94-0f27-4874-a180-8ea388fabc4c,homecoming.jewelry,available,67.98,69.98,high,low,10,namecheap,,,28/09/2026 19:27
-4764230e-e40f-401e-bd08-ecde50fda539,castro.jewelry,available,51.95,51.95,medium,low,6,spaceship,,,28/09/2026 09:15
+4764230e-e40f-401e-bd08-ecde50fda539,castro.jewelry,available,51.95,51.95,high,low,6,spaceship,,,28/09/2026 09:15
 2433682f-6565-4cd4-81d1-b469e17a82f0,delirium.jewelry,available,67.98,69.98,high,low,8,namecheap,,,24/09/2026 21:40
-4c2feeca-0842-455f-afb4-2aef5a9addfc,employment.jewelry,available,19.99,,high,low,10,name.com,,,
+4c2feeca-0842-455f-afb4-2aef5a9addfc,employment.jewelry,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 18:07
 d19514e2-134a-49c5-a05e-5fdff667fc58,dionysian.jewelry,available,19.99,84.99,medium,low,9,name.com,,,14/08/2026 08:24
 cb01af06-e98f-44fa-a0bf-43306c5a0e31,cowpens.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,22/09/2026 14:56
+d04f4da5-6259-43b0-a704-f257fb014d99,skipping.jewelry,available,67.98,69.98,high,low,8,namecheap,,,29/09/2026 08:59
 a07ec581-3872-453e-b17a-65bba478e00e,statuary.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,10/09/2026 19:16
-cf939092-a5b2-42d9-ab91-b2d9f60c04cf,girl.jewelry,available,19.99,,high,low,4,name.com,,,
+cf939092-a5b2-42d9-ab91-b2d9f60c04cf,girl.jewelry,available,50.2,50.2,high,low,4,cloudflare,,,29/09/2026 13:16
+818953f3-f953-4392-8ebb-bfdff42cd6e1,lair.jewelry,available,51.95,51.95,high,low,4,spaceship,,,30/09/2026 01:19
 8ed92f14-0ff2-4779-91da-cf5714812810,dads.jewelry,available,64.99,64.99,high,low,4,namesilo,,,20/09/2026 10:27
+542df9bb-c645-4ee8-bd97-2e63485e21b3,autobiography.jewelry,available,10.81,52.01,medium,low,13,porkbun,,,29/09/2026 23:22
 2790bc5b-cdc6-4c68-870b-c8bd5c9c7d13,yearbook.jewelry,available,64.99,64.99,high,low,8,namesilo,,,28/09/2026 11:22
 1b406d60-bd2c-4121-869c-9d605647b007,brotherly.jewelry,available,19.99,84.99,high,low,9,name.com,,,11/08/2026 06:18
 c4ddaeb8-eb0f-40cb-8999-b70c659e499b,asafoetida.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,20/09/2026 12:43
@@ -410,15 +440,17 @@ c6c5e263-0f3b-4fd7-82f5-e243bb36de68,unclouded.jewelry,available,19.99,84.99,med
 514cf21d-e8f9-4ae6-a97b-c1f0b7759e0b,solutions.jewelry,available,51.95,51.95,high,low,9,spaceship,,,28/09/2026 10:35
 526f8d48-bee8-4839-8686-e0a5487b38d6,youngest.jewelry,available,19.99,,high,low,8,name.com,,,
 1afa5c7f-4205-496d-99c7-9e5698e2f421,caledonian.jewelry,available,10.92,53.72,high,low,10,dynadot,,,28/09/2026 21:31
-821b92c7-410c-459e-a379-78a732dc22a7,shout.jewelry,available,19.99,,high,low,5,name.com,,,
+821b92c7-410c-459e-a379-78a732dc22a7,shout.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 12:22
 57add637-f692-4805-8dac-2ec8f8acd021,documental.jewelry,available,19.99,84.99,medium,low,10,name.com,,,14/08/2026 14:27
-4a9b8229-af49-4733-beb8-0ef378ccc1a1,antihero.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,19/09/2026 14:35
+4a9b8229-af49-4733-beb8-0ef378ccc1a1,antihero.jewelry,available,64.99,64.99,high,low,8,namesilo,,,19/09/2026 14:35
+30dce906-9a9d-4828-8d02-1611e1ea48c6,franco.jewelry,available,64.99,64.99,high,low,6,namesilo,,,29/09/2026 06:44
 73e46802-d2c5-4355-9f6a-bbe3381ddab5,smashing.jewelry,available,19.99,84.99,high,low,8,name.com,,,08/08/2026 12:53
 16d1cc4c-486b-495e-b03e-cdbf1f404e43,mae.jewelry,available,51.95,51.95,high,low,3,spaceship,,,27/09/2026 18:26
 4f091ff8-8808-4fdf-bd49-16891458f0ff,dentate.jewelry,available,19.99,84.99,medium,low,7,name.com,,,14/08/2026 01:57
 5162f932-b507-40c0-9675-4772ec8eb625,spinning.jewelry,available,64.99,64.99,high,low,8,namesilo,,,27/09/2026 05:29
 571d2af4-bbde-477b-9433-407f91077209,aum.jewelry,available,64.99,64.99,high,low,3,namesilo,,,21/09/2026 04:10
 cc6b161b-330f-42af-b3a4-de85869a3853,aranea.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,20/09/2026 00:00
+f550d044-7d27-44a8-983f-ca6845617f2d,asturias.jewelry,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 15:34
 45183e64-4316-40cc-834b-ad5c8734dce9,manifold.jewelry,available,19.99,84.99,high,low,8,name.com,,,24/08/2026 15:07
 bb8932c7-e856-4b77-8dc1-33edcdd4a19e,unflagging.jewelry,available,19.99,84.99,high,low,10,name.com,,,22/08/2026 02:31
 ac249ce7-0e78-48b8-8149-64d515b4c69c,swishy.jewelry,available,64.99,64.99,high,low,6,namesilo,,,11/09/2026 05:54
@@ -426,6 +458,7 @@ ac249ce7-0e78-48b8-8149-64d515b4c69c,swishy.jewelry,available,64.99,64.99,high,l
 60b57e9f-7d24-43ba-9c24-c85a9cf8857f,gruesome.jewelry,available,19.99,84.99,medium,low,8,name.com,,,18/08/2026 23:17
 8ed8a049-7572-45ab-8452-db5d9156e678,optional.jewelry,available,64.99,64.99,high,low,8,namesilo,,,04/09/2026 17:10
 b16e00c9-a5ed-432a-a55c-71f8956dcda5,barrio.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,22/09/2026 08:38
+c10c4f83-6759-4311-afbe-b47bddbae5f9,stalker.jewelry,available,64.99,64.99,high,low,7,namesilo,,,30/09/2026 02:37
 b554681e-3865-4423-9b13-66d7fef04d6f,delusional.jewelry,available,19.99,84.99,medium,low,10,name.com,,,14/08/2026 00:51
 f3895bc9-43f4-44ee-ad2d-544a73a9cc6a,studied.jewelry,available,64.99,64.99,high,low,7,namesilo,,,10/09/2026 22:59
 c42f7491-b362-48f8-9b7f-2e7a9255524c,wafers.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,20/09/2026 21:54
@@ -439,14 +472,17 @@ c35ee7cc-4e5d-4a20-9b32-706715cf791b,international.jewelry,available,64.99,64.99
 97225267-c1e5-4d59-89ab-3ebc3c452216,bipedal.jewelry,available,19.99,84.99,high,low,7,name.com,,,10/08/2026 05:09
 925a7f2a-6357-4068-9377-489ad9219735,beaked.jewelry,available,19.99,84.99,medium,low,6,name.com,,,09/08/2026 03:50
 f9ec97ed-86a3-4f20-b628-f26ebadb8522,immovable.jewelry,available,19.99,84.99,medium,low,9,name.com,,,21/08/2026 21:17
+d4e10ffa-a588-49a7-acef-6f1d6ed69ea8,procession.jewelry,available,64.99,64.99,high,low,10,namesilo,,,29/09/2026 06:59
 5a79b8a8-a713-4b30-a368-8b899ece7192,suspense.jewelry,available,19.99,,high,low,8,name.com,,,
 afb1cf63-dd3c-4154-9a8b-b3c05e60e2ab,rep.jewelry,available,19.99,,high,low,3,name.com,,,
 d2ca61dd-68b9-4d8a-b1b6-02fc44a7b87b,emerson.jewelry,available,51.95,51.95,high,low,7,spaceship,,,29/09/2026 00:47
 488d861f-e3f2-4d6c-a093-7094136d807b,arnold.jewelry,available,64.99,64.99,high,low,6,namesilo,,,20/09/2026 08:16
+373581b6-3744-47d4-83e2-e13b5fc401cd,sighs.jewelry,available,10.81,52.01,medium,low,5,porkbun,,,30/09/2026 00:18
 89d7022e-c17b-4b4d-b546-e7062afc9580,umpteenth.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,11/09/2026 23:09
 f4446f0a-7d42-43dc-995b-f1b6402b70f2,alary.jewelry,available,19.99,84.99,medium,low,5,name.com,,,
 0d56bb5b-5136-4f28-8211-01ca876bf975,studious.jewelry,available,19.99,84.99,high,low,8,name.com,,,10/08/2026 19:10
-bb267d29-9799-4770-862b-39d04c87086e,cue.jewelry,available,19.99,,high,low,3,name.com,,,
+13948bd8-46cb-4f40-ae80-8b7e38a1645a,whistler.jewelry,available,51.95,51.95,high,low,8,spaceship,,,30/09/2026 00:54
+bb267d29-9799-4770-862b-39d04c87086e,cue.jewelry,available,64.99,64.99,high,medium,3,namesilo,,,29/09/2026 13:01
 6faa209a-aa53-4ea8-ac4f-6761e21b302e,leith.jewelry,available,10.92,53.72,medium,low,5,dynadot,,,28/09/2026 16:45
 824e53e8-b631-4322-8b2a-74ed0641304f,brim.jewelry,available,64.99,64.99,high,low,4,namesilo,,,24/09/2026 10:24
 1e3a1d70-f67e-48aa-a950-572369e7e126,ariocarpus.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,20/09/2026 05:32
@@ -455,7 +491,7 @@ bb267d29-9799-4770-862b-39d04c87086e,cue.jewelry,available,19.99,,high,low,3,nam
 cb0969ee-ee95-4438-8506-1d9e3b4143d4,fiddle.jewelry,available,64.99,64.99,high,low,6,namesilo,,,29/09/2026 00:55
 91d2c774-31fe-4b52-8473-3727c0f4a3f2,boozy.jewelry,available,19.99,84.99,low,low,5,name.com,,,09/08/2026 19:00
 b3559235-09c8-4a03-afa1-f82b6f4bd0e4,tattle.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 23:36
-c4ebca83-4674-4bad-b1dd-47212f30cb1b,luncheon.jewelry,available,19.99,,high,low,8,name.com,,,
+c4ebca83-4674-4bad-b1dd-47212f30cb1b,luncheon.jewelry,available,64.99,64.99,high,low,8,namesilo,,,29/09/2026 13:43
 503878bb-f4a6-403d-b157-2c7eea1ab4c6,excavation.jewelry,available,64.99,64.99,high,low,10,namesilo,,,20/09/2026 01:55
 346e65d1-38de-49e0-9674-eb769ad6fe1d,evaluate.jewelry,available,19.99,,high,low,8,name.com,,,
 287d807d-5545-4146-ae98-5cdb5bd8add2,sector.jewelry,available,50.2,50.2,high,low,6,cloudflare,,,28/09/2026 03:04
@@ -464,11 +500,11 @@ c4ebca83-4674-4bad-b1dd-47212f30cb1b,luncheon.jewelry,available,19.99,,high,low,
 3b5ed486-2d52-4236-afae-370076249c7d,tanning.jewelry,available,19.99,84.99,high,low,7,name.com,,,22/08/2026 20:14
 a5d169e4-b6dc-430a-8b1d-8147e3a53e89,opts.jewelry,available,67.98,69.98,medium,low,4,namecheap,,,18/09/2026 13:57
 40519af9-dacb-45d1-94c7-ff2f9cfb7fa3,faintly.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,14/09/2026 17:33
+98226f92-ef68-458d-8491-79fd33f6a175,haldane.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,30/09/2026 01:29
 ac9925f3-5107-4b3f-b703-9ab5738678c0,honeybee.jewelry,available,64.99,64.99,high,low,8,namesilo,,,19/09/2026 17:30
 2f19a12b-febd-4626-bad2-332a6c9ecfcb,pompon.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 09:36
 d8f0ff23-0075-432b-928d-e170b5bdaa6d,acclivity.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,16/09/2026 22:40
-4dbd2236-21ae-471d-9e92-1bc372ae2c8c,hipaa.jewelry,available,19.99,,medium,low,5,name.com,,,
-7e1d6553-2776-435b-b5b5-954d3360c279,jeep.jewelry,available,,,high,medium,4,,,,
+4dbd2236-21ae-471d-9e92-1bc372ae2c8c,hipaa.jewelry,available,19.99,,high,low,5,name.com,,,
 0da853d5-2eec-41d0-9f8a-1d5744b7b808,accidents.jewelry,available,50.2,50.2,medium,low,9,cloudflare,,,28/09/2026 05:03
 0e921c56-4d1f-4ceb-a25e-c827cf04dcf6,fiercely.jewelry,available,10.81,52.01,medium,low,8,porkbun,,,28/09/2026 14:52
 b2daf382-cabd-4ef0-91c0-bc6c50befb4d,stupidity.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,23/09/2026 11:18
@@ -513,6 +549,7 @@ f0b9ec16-3880-4a24-88fa-11f248b5446b,bruckner.jewelry,available,64.99,64.99,medi
 ac47b4ce-852c-4d5c-a124-993d881094f7,kemp.jewelry,available,51.95,51.95,medium,low,4,spaceship,,,29/09/2026 02:56
 e7a67e62-68ff-469c-9487-54cd1ab6340d,ballota.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,21/09/2026 23:16
 b2b6ebf4-dc2c-4c6c-89fc-404913b89095,confirming.jewelry,available,64.99,64.99,high,low,10,namesilo,,,23/09/2026 19:45
+5fe40fb7-fd27-4b64-b2cd-b85a507a1f6c,flattered.jewelry,available,51.95,51.95,high,low,9,spaceship,,,29/09/2026 14:41
 d34e1985-f0e9-4906-b87b-7c8f5064a83c,aweigh.jewelry,available,19.99,84.99,low,low,6,name.com,,,07/08/2026 14:29
 caf123e8-f318-48b0-a4ba-4742b1590ea3,backwash.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,17/09/2026 15:44
 9f3d4482-e5fe-47de-bd68-6bb8e87417bc,votive.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,13/09/2026 07:17
@@ -520,15 +557,16 @@ caf123e8-f318-48b0-a4ba-4742b1590ea3,backwash.jewelry,available,64.99,64.99,medi
 ddcb7369-a5e8-4443-8233-679e78200969,homozygous.jewelry,available,19.99,84.99,medium,low,10,name.com,,,21/08/2026 13:12
 3f815c43-e04b-4b35-b312-69650b52a30d,yttrium.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,20/09/2026 23:00
 b3b23b5b-5105-4448-86e9-d77387eeb916,mass.jewelry,available,64.99,64.99,high,low,4,namesilo,,,28/09/2026 22:52
-fd9e7d97-8b41-43b2-beab-367437a04f61,selkirk.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,18/09/2026 05:50
-8b1a33ca-ab3c-4055-be8d-29d54de039c6,tens.jewelry,available,50.2,50.2,medium,low,4,cloudflare,,,29/09/2026 03:02
+fd9e7d97-8b41-43b2-beab-367437a04f61,selkirk.jewelry,available,64.99,64.99,high,low,7,namesilo,,,18/09/2026 05:50
+8b1a33ca-ab3c-4055-be8d-29d54de039c6,tens.jewelry,available,50.2,50.2,high,low,4,cloudflare,,,29/09/2026 03:02
+4016ab4a-e3a9-478b-ad84-8f69d644f847,ftp.jewelry,available,64.99,64.99,high,low,3,namesilo,,,30/09/2026 01:37
 676b41ee-244b-4443-b194-09852866c16f,unreal.jewelry,available,64.99,64.99,high,low,6,namesilo,,,22/09/2026 09:00
 937f8089-9983-4ef1-a6e4-c09c2f31a24b,vaulting.jewelry,available,19.99,84.99,high,low,8,name.com,,,04/09/2026 21:34
 37218861-fefe-4abe-8407-40b90a23dde2,eurasian.jewelry,available,19.99,84.99,high,low,8,name.com,,,17/08/2026 14:26
 c143e801-3c69-45fe-a02c-7555693235c6,til.jewelry,available,50.2,50.2,high,low,3,cloudflare,,,28/09/2026 11:25
 07e1098e-19c9-463b-a69b-def9210cbb61,yield.jewelry,available,19.99,,high,low,5,name.com,,,
 afc01207-45f6-435a-991e-faeefa534ef7,justice.jewelry,available,64.99,64.99,high,medium,7,namesilo,,,19/09/2026 10:07
-e8a28822-3ffe-42f5-a683-85ea082cb728,law.jewelry,available,19.99,,high,medium,3,name.com,,,
+e8a28822-3ffe-42f5-a683-85ea082cb728,law.jewelry,available,50.2,50.2,high,medium,3,cloudflare,,,29/09/2026 11:16
 be7da806-3d71-4df8-b778-8df67373ffd4,portable.jewelry,available,64.99,64.99,high,low,8,namesilo,,,27/09/2026 04:40
 69817e62-26c0-4b43-b0dd-883f25959053,morning.jewelry,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 01:56
 e614ee63-1897-465d-858f-b05230045b65,jointed.jewelry,available,19.99,84.99,medium,low,7,name.com,,,22/08/2026 13:44
@@ -536,30 +574,36 @@ e614ee63-1897-465d-858f-b05230045b65,jointed.jewelry,available,19.99,84.99,mediu
 9d67efda-c21d-4965-a8db-6120c7fd2da9,atm.jewelry,available,64.99,64.99,high,low,3,namesilo,,,20/09/2026 18:44
 a75dd31e-5d87-4be6-a6a2-97a068f069f0,tinkly.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,11/09/2026 16:15
 4c27f987-5ca2-4322-8963-88dbf00160e2,accuse.jewelry,available,50.2,50.2,medium,low,6,cloudflare,,,29/09/2026 02:41
+a68f4d81-c741-4143-bec8-2dc714af546b,laps.jewelry,available,51.95,51.95,medium,low,4,spaceship,,,29/09/2026 05:29
+b3b8f2c8-e64b-4649-9c7d-27140853ad88,preschool.jewelry,available,64.99,64.99,high,low,9,namesilo,,,30/09/2026 02:37
 8e2a7953-1b22-49ca-a789-6bf9d3a2105b,score.jewelry,available,64.99,64.99,high,low,5,namesilo,,,27/09/2026 18:29
+848ce98d-b5a3-4d17-aa01-84e258e3432d,ephesus.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,29/09/2026 06:27
 22718d7c-e7ba-4cc7-8c5a-6b444b954b78,upfield.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,12/09/2026 23:08
 263aa79c-3e71-48e6-8643-ed057bc5f427,cohn.jewelry,available,51.95,51.95,medium,low,4,spaceship,,,28/09/2026 01:41
-4a8900a6-1f3e-4004-9e6c-01712541850a,macleod.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,28/09/2026 02:12
+4a8900a6-1f3e-4004-9e6c-01712541850a,macleod.jewelry,available,64.99,64.99,high,low,7,namesilo,,,28/09/2026 02:12
 3eab1cea-1f21-409d-9e8b-537044d2ce1d,lhasa.jewelry,available,64.99,64.99,high,low,5,namesilo,,,24/09/2026 12:27
 03a15cc7-2c65-4b9f-8073-a89be8ed73dd,dodgy.jewelry,available,19.99,84.99,medium,low,5,name.com,,,12/08/2026 01:46
 1477e4e2-9df8-4227-b9b0-03b2736f7a96,dermal.jewelry,available,19.99,84.99,high,low,6,name.com,,,13/08/2026 13:00
 d5b85fef-5ee0-484c-8d0b-e8cce19deee4,sonoma.jewelry,available,50.2,50.2,high,low,6,cloudflare,,,27/09/2026 20:23
 2d0ae847-66c3-41e0-a941-a8bc491a3145,evolved.jewelry,available,67.98,69.98,high,low,7,namecheap,,,28/09/2026 21:24
-4caf1f4a-3406-43bb-b828-48a7e284c264,delaney.jewelry,available,51.95,51.95,medium,low,7,spaceship,,,28/09/2026 04:06
-083cb9b6-bfe0-4527-a5d4-0ad510d5a489,guard.jewelry,available,19.99,,high,low,5,name.com,,,
-94c6cf74-0446-4f6a-b710-561f616ce2b9,laundry.jewelry,available,19.99,,high,low,7,name.com,,,
+50a5a266-6c8b-4f7b-b65d-d5976ee5e548,ryder.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 21:38
+4caf1f4a-3406-43bb-b828-48a7e284c264,delaney.jewelry,available,51.95,51.95,high,low,7,spaceship,,,28/09/2026 04:06
+083cb9b6-bfe0-4527-a5d4-0ad510d5a489,guard.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 21:40
+94c6cf74-0446-4f6a-b710-561f616ce2b9,laundry.jewelry,available,50.2,50.2,high,low,7,cloudflare,,,30/09/2026 02:10
+a5473560-798b-44cf-ba2a-8352e21b0fa9,muskegon.jewelry,available,10.81,52.01,medium,low,8,porkbun,,,29/09/2026 10:06
 e27037fd-cc4f-4194-8d93-563844e6bc46,fledgeling.jewelry,available,19.99,84.99,medium,low,10,name.com,,,18/08/2026 07:32
 503854f8-04b6-44fd-bb7b-5a9afcf5524a,blessedly.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,14/09/2026 00:19
 253991cf-cb9c-4264-887c-886f52332c7e,paperback.jewelry,available,64.99,64.99,high,low,9,namesilo,,,27/09/2026 02:40
-37f75031-b271-4641-b209-4b373021737d,birthrate.jewelry,available,67.98,69.98,medium,low,9,namecheap,,,23/09/2026 20:56
+37f75031-b271-4641-b209-4b373021737d,birthrate.jewelry,available,67.98,69.98,high,low,9,namecheap,,,23/09/2026 20:56
 681c1de1-b535-4352-967d-08f8b39bdc17,bioethics.jewelry,available,67.98,69.98,high,low,9,namecheap,,,23/09/2026 17:56
 6933ee19-41ee-42a3-89d1-fe42f57342bf,acrylate.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,17/09/2026 04:05
 fe67c79f-8f5f-4826-8acf-6321dd183232,spd.jewelry,available,51.95,51.95,high,low,3,spaceship,,,28/09/2026 03:51
 eccc9ced-f080-4450-aedd-4779531613a4,punching.jewelry,available,51.95,51.95,medium,low,8,spaceship,,,29/09/2026 00:06
 42448bc3-c62b-45bb-80e9-0d6b60cc4245,running.jewelry,available,67.98,69.98,high,low,7,namecheap,,,27/09/2026 17:05
-5be4fd77-8ac4-4dde-97c2-50e791af9c8e,eloquently.jewelry,available,67.98,69.98,medium,low,10,namecheap,,,13/09/2026 20:54
+5be4fd77-8ac4-4dde-97c2-50e791af9c8e,eloquently.jewelry,available,67.98,69.98,high,low,10,namecheap,,,13/09/2026 20:54
 e8739976-01d1-43f6-a626-7d0d12846a5c,landless.jewelry,available,19.99,84.99,medium,low,8,name.com,,,22/08/2026 19:24
 6c401934-0feb-42f6-ad5a-99def532f699,leaving.jewelry,available,64.99,64.99,high,low,7,namesilo,,,24/09/2026 22:37
+5b7c2078-eef3-43fa-a9e7-b1413b3d4400,cicero.jewelry,available,51.95,51.95,high,low,6,spaceship,,,29/09/2026 18:19
 5c82d186-e2f7-4f74-ac94-3c0c1bcdec44,maledict.jewelry,available,19.99,84.99,medium,low,8,name.com,,,
 6d7484f2-e6fc-40ea-893f-f747ab9ae9d2,represent.jewelry,available,19.99,,high,low,9,name.com,,,
 f88cac2e-7cf8-4370-bac5-699b5638ed83,tribade.jewelry,available,19.99,84.99,medium,low,7,name.com,,,23/08/2026 00:20
@@ -576,7 +620,7 @@ f78cec5d-5cd4-424f-a4c6-d64ebc37490e,snatcher.jewelry,available,67.98,69.98,medi
 61af7941-fd16-482e-bb38-9d5a2c74c917,claimed.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,27/09/2026 23:56
 15da17b6-e759-474b-8aad-396952887e4e,childcare.jewelry,available,67.98,69.98,high,low,10,namecheap,,,24/09/2026 14:36
 ab277f07-5aed-4651-be67-11b006799b00,albacore.jewelry,available,64.99,64.99,high,low,8,namesilo,,,18/09/2026 02:20
-b08dd310-a2d6-4bf0-906d-3ee08d6ae672,cunning.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,24/09/2026 01:26
+b08dd310-a2d6-4bf0-906d-3ee08d6ae672,cunning.jewelry,available,67.98,69.98,high,low,7,namecheap,,,24/09/2026 01:26
 0b8856f9-08a9-4590-a5a5-5a86a78ac690,savoury.jewelry,available,19.99,84.99,high,low,7,name.com,,,25/08/2026 08:52
 46d49d1f-e4ed-47a1-aba9-d4cf99093386,egotistic.jewelry,available,19.99,84.99,medium,low,9,name.com,,,12/08/2026 19:55
 f4444667-009a-4246-8c45-c028aded1bdb,odd.jewelry,available,67.98,69.98,high,low,3,namecheap,,,24/09/2026 03:59
@@ -584,22 +628,24 @@ d8c15f69-722d-42f8-8477-84f9ed981b87,cloaks.jewelry,available,19.99,84.99,medium
 2585d3e4-810e-4cda-bc86-8334ea188757,tubes.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,20/09/2026 00:50
 db4b43bc-5670-4a55-9493-275747b4cc85,twiggy.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,11/09/2026 21:34
 bbfbcfd5-1e7e-4a4e-bced-5248a6b1e7b8,sophie.jewelry,available,64.99,64.99,high,low,6,namesilo,,,25/09/2026 11:44
-7a454b79-15ac-4077-bd13-9ef1e9f4d018,thee.jewelry,available,19.99,,medium,low,4,name.com,,,
-8e953cf5-c69d-482c-9b2f-772645e81ce4,fate.jewelry,available,19.99,,high,low,4,name.com,,,
-8f8fac18-7ddf-46bd-bbae-cbee4ce79e26,harmsworth.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,18/09/2026 06:27
+7a454b79-15ac-4077-bd13-9ef1e9f4d018,thee.jewelry,available,19.99,,high,low,4,name.com,,,
+8e953cf5-c69d-482c-9b2f-772645e81ce4,fate.jewelry,available,64.99,64.99,high,low,4,namesilo,,,29/09/2026 09:19
+8f8fac18-7ddf-46bd-bbae-cbee4ce79e26,harmsworth.jewelry,available,64.99,64.99,high,low,10,namesilo,,,18/09/2026 06:27
 f3db212a-99d6-4263-86d0-7bb193e96a4c,airfoil.jewelry,available,64.99,64.99,high,low,7,namesilo,,,17/09/2026 12:59
 c948ed60-08c2-4713-8348-e69cf9148229,belgrade.jewelry,available,64.99,64.99,high,low,8,namesilo,,,23/09/2026 05:11
 4fa8856d-754b-450e-ae14-b890afb65f2d,anyplace.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,13/09/2026 20:15
 6f5b7b31-de61-40af-85b6-cead0fb56059,avifauna.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,21/09/2026 09:31
-df0e07e6-02b1-4999-b4ae-b6055ec17686,grouping.jewelry,available,19.99,,high,low,8,name.com,,,
-8bc385f2-a465-4550-ac62-a496f3eb14f8,dishonour.jewelry,available,19.99,,medium,low,9,name.com,,,
+df0e07e6-02b1-4999-b4ae-b6055ec17686,grouping.jewelry,available,10.92,53.72,high,low,8,dynadot,,,29/09/2026 21:36
+8bc385f2-a465-4550-ac62-a496f3eb14f8,dishonour.jewelry,available,51.95,51.95,medium,low,9,spaceship,,,29/09/2026 15:45
 9813b1f6-cdf3-4eb2-be2d-84efe2088aca,xavier.jewelry,available,64.99,64.99,high,low,6,namesilo,,,25/09/2026 10:30
-b3eec53d-c989-454f-ad07-2365d1503873,positron.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,19/09/2026 14:21
+b3eec53d-c989-454f-ad07-2365d1503873,positron.jewelry,available,64.99,64.99,high,low,8,namesilo,,,19/09/2026 14:21
+7ffcd444-d76a-41b0-bc35-d5a20bb73304,convey.jewelry,available,51.95,51.95,high,low,6,spaceship,,,29/09/2026 06:20
 4ee4ed09-98be-42a1-8c1a-227aeec83b4e,catenate.jewelry,available,19.99,84.99,medium,low,8,name.com,,,11/08/2026 21:39
 daa0ea83-3109-4e53-acec-fda3bdf02666,branding.jewelry,available,64.99,64.99,high,low,8,namesilo,,,24/09/2026 08:11
 e682f8bc-6ece-4c4a-be99-14034918f3ca,equitable.jewelry,available,19.99,84.99,high,low,9,name.com,,,17/08/2026 11:54
 69f24fcc-924e-4414-8617-f986fb8bd074,offprint.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,10/09/2026 03:57
 618cb798-2e9b-4e0d-8d05-7a9c5a0049f5,hardship.jewelry,available,64.99,64.99,high,low,8,namesilo,,,17/09/2026 10:51
+b684f241-74ee-4bb6-a570-ffb9518070da,torpedoes.jewelry,available,64.99,64.99,low,low,9,namesilo,,,29/09/2026 11:10
 cf100cdd-7faf-48f5-8fb2-260056e893ff,crumpled.jewelry,available,19.99,84.99,medium,low,8,name.com,,,13/08/2026 09:06
 a2d1913c-6faf-4585-98e4-6b0773132302,gravelly.jewelry,available,19.99,84.99,medium,low,8,name.com,,,20/08/2026 18:27
 a41fba6a-c89c-4f77-8d31-82c8e1cac38a,holmes.jewelry,available,64.99,64.99,high,low,6,namesilo,,,20/09/2026 10:51
@@ -607,6 +653,7 @@ b23463fd-f0a9-48ff-8e06-28106cb85eee,adios.jewelry,available,50.2,50.2,high,low,
 db677f56-0403-48e9-94fc-71d866ed7ff8,region.jewelry,available,19.99,,high,low,6,name.com,,,
 20da6c46-5613-436e-b511-d941bafdb41e,emotionally.jewelry,available,51.95,51.95,high,low,11,spaceship,,,27/09/2026 17:53
 d0aca758-b1f4-4170-b1c8-ecfaf60aa8a4,unfilmed.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,12/09/2026 10:14
+faa4c6e5-eb47-4a16-b6c0-c06fd46844b4,aron.jewelry,available,51.95,51.95,high,low,4,spaceship,,,29/09/2026 15:32
 a1c63988-7f42-4d16-86b6-b4ff4b285c60,dualistic.jewelry,available,19.99,84.99,medium,low,9,name.com,,,14/08/2026 20:40
 160a1c2b-ffb4-4730-bea4-2ade63cc1799,guatemalan.jewelry,available,19.99,84.99,high,low,10,name.com,,,20/08/2026 20:45
 9a65775e-ac12-457b-8018-f687531df400,tautog.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,24/09/2026 02:17
@@ -614,16 +661,20 @@ a1c63988-7f42-4d16-86b6-b4ff4b285c60,dualistic.jewelry,available,19.99,84.99,med
 9c92b57d-77b3-4c5f-88a3-04763502a8bb,languid.jewelry,available,19.99,84.99,medium,low,7,name.com,,,22/08/2026 18:03
 898a2ab5-a409-4d23-a96a-8e25e187eb31,nostrils.jewelry,available,19.99,,medium,low,8,name.com,,,
 e995a03d-cd7e-4d00-b868-03e5f3e42208,depressing.jewelry,available,19.99,84.99,medium,low,10,name.com,,,12/08/2026 03:50
+854f36d1-d9f3-489e-b54d-3900abca6c44,competencies.jewelry,available,51.95,51.95,medium,low,12,spaceship,,,29/09/2026 06:05
 2040231a-d58d-4f39-929a-bed6f60a19ce,structures.jewelry,available,19.99,,medium,low,10,name.com,,,
 aba33c0e-3126-478b-9182-444e76e88082,splendid.jewelry,available,19.99,84.99,high,low,8,name.com,,,17/08/2026 16:04
 ea096df2-add6-4831-9b21-73a8c20e601e,chamomile.jewelry,available,64.99,64.99,high,low,9,namesilo,,,19/09/2026 13:01
+9ddf5518-14d8-46b6-b7b8-658e6736ae85,treasures.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,29/09/2026 05:28
 23f41a1c-f58d-41f9-a107-3fe5385e5db8,berm.jewelry,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 09:41
+237d277f-165c-4ea7-900c-67085bc43b18,menlo.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,29/09/2026 22:34
 4e396908-60eb-4e28-8d5e-5adb4355f463,nonfat.jewelry,available,19.99,84.99,medium,low,6,name.com,,,17/08/2026 23:23
 0ff58be4-8eee-4cfc-8c58-3c9fe8f6133f,pager.jewelry,available,64.99,64.99,high,low,5,namesilo,,,23/09/2026 01:32
 e46bc204-1047-4857-9afa-ab27a211d237,jument.jewelry,available,67.98,69.98,medium,low,6,namecheap,,,22/09/2026 21:27
 82a14cd9-aa3e-4892-b293-578786b8526c,cfa.jewelry,available,64.99,64.99,high,low,3,namesilo,,,28/09/2026 03:42
+00f0b2be-46e8-4111-8182-ddac0b72f397,snatched.jewelry,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 21:12
 63ef9894-bfcd-4951-8091-99935b71e7ac,destroyed.jewelry,available,67.98,69.98,medium,low,9,namecheap,,,24/09/2026 07:01
-fb79b337-550b-42fd-9b6f-5b6e46112262,astragal.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,19/09/2026 09:44
+fb79b337-550b-42fd-9b6f-5b6e46112262,astragal.jewelry,available,64.99,64.99,high,low,8,namesilo,,,19/09/2026 09:44
 471b4a03-86b5-45de-8087-535c35851828,ballooning.jewelry,available,64.99,64.99,high,low,10,namesilo,,,21/09/2026 23:14
 86dd3422-d3ac-4a55-afb9-3c4984cc8474,updates.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,20/09/2026 08:39
 a9a04468-9a06-4aa7-aba6-b61dfa6cde50,gadget.jewelry,available,67.98,69.98,high,low,6,namecheap,,,19/09/2026 21:47
@@ -634,15 +685,16 @@ cce0f001-ec85-4e43-a1ff-f5a30d6f0612,susquehanna.jewelry,available,64.99,64.99,m
 65730d79-d516-4616-bee5-e128132aebb7,albers.jewelry,available,64.99,64.99,high,low,6,namesilo,,,18/09/2026 02:34
 f65dcfaa-f2de-4870-bdcb-1efa0e721ebe,camus.jewelry,available,64.99,64.99,high,low,5,namesilo,,,18/09/2026 02:38
 a21e20c6-5cfc-4e02-8373-e1ed3cfa8a4e,prolix.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,09/09/2026 03:04
-e785b87f-8b55-4982-83fa-59883fbcce83,costumed.jewelry,available,19.99,84.99,medium,low,8,name.com,,,13/08/2026 03:18
+e785b87f-8b55-4982-83fa-59883fbcce83,costumed.jewelry,available,19.99,84.99,high,low,8,name.com,,,13/08/2026 03:18
 b5671700-c67d-4207-9a4a-a3363f6a06e4,gaze.jewelry,available,51.95,51.95,high,low,4,spaceship,,,28/09/2026 19:17
 b1886cb3-1a76-4056-931e-fd59e73ea8fe,harrison.jewelry,available,64.99,64.99,high,low,8,namesilo,,,23/09/2026 08:20
 4fd50a5b-fb23-4085-afa9-63dd1ea29960,habited.jewelry,available,19.99,84.99,medium,low,7,name.com,,,20/08/2026 21:27
 0fde07ad-16e7-4eec-a130-7df6e3427df3,flaxseed.jewelry,available,64.99,64.99,high,low,9,namesilo,,,16/09/2026 10:28
-3a3aa48b-e802-41bf-a739-5326be388055,amaranthus.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,18/09/2026 15:51
+3a3aa48b-e802-41bf-a739-5326be388055,amaranthus.jewelry,available,64.99,64.99,high,low,10,namesilo,,,18/09/2026 15:51
 43911690-ae3a-4381-a04a-7b409274b5c2,vegas.jewelry,premium,78.54,78.54,high,low,5,namesilo,,,25/09/2026 15:39
 4e6a801a-2ddb-498c-ac82-7db076b7e9bc,grill.jewelry,available,64.99,64.99,high,low,5,namesilo,,,28/09/2026 05:54
-a4d490fd-6504-4db5-95ad-5df6b91fc190,hausen.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,17/09/2026 01:50
+a4d490fd-6504-4db5-95ad-5df6b91fc190,hausen.jewelry,available,64.99,64.99,high,low,6,namesilo,,,17/09/2026 01:50
+ab38ef52-ea1a-4180-af72-e710d5ce88f0,deployment.jewelry,available,64.99,64.99,high,low,10,namesilo,,,29/09/2026 18:37
 3a2e9dcd-2089-483c-8994-8d3552151531,marrying.jewelry,available,51.95,51.95,high,low,8,spaceship,,,27/09/2026 17:47
 8463514d-37f2-48ab-a84b-9823e1aa2ee6,asl.jewelry,available,67.98,69.98,high,low,3,namecheap,,,18/09/2026 20:39
 fd830857-065b-41eb-b55d-c638d058a971,razorback.jewelry,available,64.99,64.99,high,low,9,namesilo,,,09/09/2026 10:48
@@ -654,7 +706,7 @@ cf30772f-320c-46ac-af69-4419204df55b,abuser.jewelry,available,67.98,69.98,medium
 c1c79167-512e-4721-b0bf-c2b85e0f92b9,rucksack.jewelry,available,67.98,69.98,high,low,8,namecheap,,,21/09/2026 14:41
 a27ca57d-e58d-4a62-bfa1-520eff9eaf80,facilitate.jewelry,available,19.99,,high,low,10,name.com,,,
 42c02513-1aca-42af-b363-4afa1eeb4d6d,queasy.jewelry,available,19.99,84.99,medium,low,6,name.com,,,24/08/2026 08:26
-a86a51bf-2871-4554-a2f8-43a1d68e134c,pickings.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,11/09/2026 07:21
+a86a51bf-2871-4554-a2f8-43a1d68e134c,pickings.jewelry,available,64.99,64.99,high,low,8,namesilo,,,11/09/2026 07:21
 0abd1dc8-b115-4e58-8587-84ba6151df9f,colorado.jewelry,available,64.99,64.99,high,low,8,namesilo,,,24/09/2026 13:30
 0b9cd3a4-69cb-4c7b-81e3-a8cf6de245f6,zaman.jewelry,available,67.98,69.98,high,low,5,namecheap,,,18/09/2026 03:15
 28a92b98-20c5-4100-a4a5-93888ddead81,hanna.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,28/09/2026 07:49
@@ -686,7 +738,8 @@ f811188c-36ed-4dea-90cb-af72f917099a,tires.jewelry,available,64.99,64.99,medium,
 3d37a2e3-e01a-4da0-8a2e-ed54d05ea753,scent.jewelry,available,64.99,64.99,high,low,5,namesilo,,,20/09/2026 08:28
 879e53c9-db72-4404-a8de-11b900d23d88,leasing.jewelry,available,19.99,,high,low,7,name.com,,,
 ad6c0817-5683-4fc1-b862-37d93f3e35dc,merry.jewelry,available,19.99,84.99,high,low,5,name.com,,,11/08/2026 04:28
-e7ffa440-0067-4ec5-b50e-3bea90f2c4e6,orgy.jewelry,available,64.99,64.99,medium,low,4,namesilo,,,23/09/2026 17:17
+e7ffa440-0067-4ec5-b50e-3bea90f2c4e6,orgy.jewelry,available,64.99,64.99,high,low,4,namesilo,,,23/09/2026 17:17
+b8de793a-7e6c-4996-8754-3d855e380721,buddhism.jewelry,available,64.99,64.99,high,low,8,namesilo,,,30/09/2026 00:55
 b1f0c83e-9e5a-4ae9-9a06-8a445f6ec988,cruel.jewelry,available,64.99,64.99,high,low,5,namesilo,,,22/09/2026 17:21
 e570fde6-d780-487f-8aff-9ad458544d66,animosity.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,19/09/2026 09:20
 63277a33-0bc8-47d1-a666-3949403c6fda,ipsus.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,22/09/2026 15:09
@@ -719,27 +772,30 @@ f6854073-2fb9-4783-86a5-c29d8b625670,oblong.jewelry,available,64.99,64.99,high,l
 7df74c0e-4414-4b7b-8b1d-b6ff2ab1bbae,chatty.jewelry,available,19.99,84.99,high,low,6,name.com,,,12/08/2026 03:17
 4990a726-45ca-4423-970d-1ccbcbaac5e4,steiner.jewelry,available,64.99,64.99,high,low,7,namesilo,,,25/09/2026 10:28
 ad8ce08e-e2f7-49e8-b21c-0ad0ced804ac,emotional.jewelry,available,19.99,84.99,high,low,9,name.com,,,16/08/2026 15:56
+80020054-eb6c-4191-a736-8211182075ff,silva.jewelry,available,67.98,69.98,high,low,5,namecheap,,,30/09/2026 02:53
 0bfa4779-a309-49a0-a9d3-7e37a702dadb,battalion.jewelry,available,64.99,64.99,high,low,9,namesilo,,,22/09/2026 14:24
-80467f58-0eb7-4881-b098-5eec7f681a72,dinosaur.jewelry,available,19.99,,high,low,8,name.com,,,
+80467f58-0eb7-4881-b098-5eec7f681a72,dinosaur.jewelry,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 15:02
 0be424e9-7a6c-4345-9e80-e75af879513a,compton.jewelry,available,64.99,64.99,high,low,7,namesilo,,,20/09/2026 10:47
-d484c18b-50bb-4fe6-9a38-a6d4772dc402,unbranded.jewelry,available,19.99,84.99,medium,low,9,name.com,,,12/09/2026 04:29
+d484c18b-50bb-4fe6-9a38-a6d4772dc402,unbranded.jewelry,available,19.99,84.99,high,low,9,name.com,,,12/09/2026 04:29
 a7ba422e-213b-4992-a708-c32000ab836d,wilted.jewelry,available,19.99,84.99,medium,low,6,name.com,,,23/08/2026 13:24
 a6998b8e-f92e-4d21-89a4-1e4d76c101c0,lyrate.jewelry,available,19.99,84.99,medium,low,6,name.com,,,24/08/2026 12:39
 4839fd1e-51fb-4094-8506-07d956969e51,mcdonnell.jewelry,available,64.99,64.99,high,low,9,namesilo,,,27/09/2026 02:55
 c2a5b87a-0f8e-49fa-9c20-0b62fab168b1,bladed.jewelry,available,19.99,84.99,medium,low,6,name.com,,,10/08/2026 12:14
-b487da02-6d0c-4170-986b-7011b037b667,feigned.jewelry,available,19.99,84.99,medium,low,7,name.com,,,18/08/2026 00:43
-c86b06d6-d164-45e9-b256-b09cec9c44ba,exception.jewelry,available,19.99,,high,low,9,name.com,,,
+b487da02-6d0c-4170-986b-7011b037b667,feigned.jewelry,available,19.99,84.99,high,low,7,name.com,,,18/08/2026 00:43
+c86b06d6-d164-45e9-b256-b09cec9c44ba,exception.jewelry,available,51.95,51.95,high,low,9,spaceship,,,29/09/2026 18:20
 fe083e70-ca02-498d-9e05-7435a917cb17,seat.jewelry,available,19.99,84.99,medium,low,4,name.com,,,09/08/2026 11:32
 78cccdc0-7e4d-4084-a449-0f75969fbc98,preferent.jewelry,available,19.99,84.99,medium,low,9,name.com,,,09/08/2026 17:55
 cae7de00-8928-4267-9faf-6c48210e8cf5,valentine.jewelry,available,64.99,64.99,high,low,9,namesilo,,,26/09/2026 00:29
 b91257d7-5e3c-4cce-a22c-5ca24a83aef7,overcome.jewelry,available,10.92,53.72,high,low,8,dynadot,,,28/09/2026 05:30
 0f26b0fd-f237-4e4e-8526-ae1825c63d4c,panty.jewelry,available,64.99,64.99,high,low,5,namesilo,,,09/09/2026 22:42
 6e7da1dc-fb09-4083-9488-41c589005139,expendable.jewelry,available,19.99,84.99,high,low,10,name.com,,,17/08/2026 18:08
+0641e8b0-69ef-47b0-bc02-900b372f3a17,undergoing.jewelry,available,64.99,64.99,low,low,10,namesilo,,,29/09/2026 23:42
 5750b024-628c-4c87-bd32-d9d670db70fb,guinness.jewelry,available,64.99,64.99,high,low,8,namesilo,,,18/09/2026 04:41
 0d0a12c0-fed1-40d1-8d24-d34c85d9a539,rating.jewelry,premium,128.7,128.7,high,low,6,namecheap,,,28/09/2026 19:08
 5aabb784-84ab-49b5-ad57-00e5ba6aaf7b,agrostemma.jewelry,available,67.98,69.98,medium,low,10,namecheap,,,17/09/2026 19:51
 b85399f7-0622-43be-960c-1edbdb67a81c,pension.jewelry,available,10.92,53.72,high,low,7,dynadot,,,28/09/2026 10:42
 17fb2a00-3961-4c5c-acce-9ab7c5275152,velvety.jewelry,available,64.99,64.99,high,low,7,namesilo,,,13/09/2026 02:00
+65f19d42-a52e-486d-b439-88d9810398c4,fraction.jewelry,available,64.99,64.99,high,low,8,namesilo,,,29/09/2026 07:00
 0224573b-5826-42c3-a024-d24055787cd7,honored.jewelry,available,19.99,84.99,high,low,7,name.com,,,17/08/2026 13:25
 4d5466ba-34fc-433a-ab07-ee2ef8144275,inwardly.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,15/09/2026 09:18
 855d03ca-1da0-43c2-a331-5d62d454b86b,respected.jewelry,available,51.95,51.95,high,low,9,spaceship,,,27/09/2026 12:38
@@ -756,6 +812,7 @@ e6e760e4-6493-4fc3-8416-e6b8c4ba34ff,pitcher.jewelry,available,10.81,52.01,mediu
 741b6c0f-75af-4472-b8e9-1c7d8b843ad0,unproven.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,12/09/2026 17:33
 9309366c-ffe9-4da2-8ade-1bde52f49ce9,adequacy.jewelry,available,64.99,64.99,high,low,8,namesilo,,,17/09/2026 07:43
 9e1355a9-104d-4ae4-8884-90524b162b4b,hallux.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,23/09/2026 14:56
+65a92a8c-134f-4959-9f7d-2064bf21fff4,fdic.jewelry,available,64.99,64.99,medium,low,4,namesilo,,,30/09/2026 01:36
 f9786a21-4a4e-4995-aeae-d4df2df9250a,buns.jewelry,available,19.99,84.99,medium,low,4,name.com,,,09/08/2026 10:54
 faa7acc5-3029-45e1-adad-44f5668d0bd1,breathing.jewelry,available,19.99,84.99,high,low,9,name.com,,,11/08/2026 03:18
 b26c013f-25cf-45c0-843e-b7e856fede45,berkeley.jewelry,available,67.98,69.98,high,low,8,namecheap,,,23/09/2026 09:32
@@ -767,8 +824,9 @@ ef06c3b8-2486-4b72-80ae-02df4c177c31,duncan.jewelry,available,64.99,64.99,high,l
 4b1aeaac-f9bf-4456-a03f-6fececb798f4,jetting.jewelry,available,19.99,84.99,high,low,7,name.com,,,22/08/2026 13:09
 e822cc8d-71b7-42b0-abda-e3a8273f7b93,lounge.jewelry,available,64.99,64.99,high,low,6,namesilo,,,11/09/2026 08:25
 874dc400-2f56-407c-9c1c-41f33b97f2f1,beck.jewelry,available,67.98,69.98,high,low,4,namecheap,,,22/09/2026 22:35
-fa65fba1-fb38-496a-af72-fb809402883d,kiev.jewelry,available,19.99,,high,low,4,name.com,,,
+fa65fba1-fb38-496a-af72-fb809402883d,kiev.jewelry,available,64.99,64.99,high,low,4,namesilo,,,29/09/2026 07:09
 65950dce-7815-4bfa-8329-798741c2fa98,sibilant.jewelry,available,19.99,84.99,medium,low,8,name.com,,,12/08/2026 23:18
+9826a29f-bcc0-4c97-a9bf-48bbe3ee4648,hearn.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 15:40
 82038978-7229-4b98-83f4-2be98e5bbfa5,bawling.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,13/09/2026 07:42
 128e181c-28b8-4e94-9652-65d086db7692,quits.jewelry,available,67.98,69.98,high,low,5,namecheap,,,09/09/2026 09:02
 0455a345-05a5-4c62-b219-2e517f73521c,automation.jewelry,available,51.95,51.95,high,medium,10,spaceship,,,28/09/2026 03:05
@@ -777,16 +835,16 @@ cc654f9d-ed70-46e8-9516-678b2d5e459e,plugin.jewelry,available,64.99,64.99,high,l
 5d3deea2-aceb-4b03-80c1-196c69dd720c,model.jewelry,available,64.99,64.99,high,medium,5,namesilo,,,28/09/2026 02:57
 51fc5ea8-816f-4670-82e7-6b9b749357cd,unsociable.jewelry,available,19.99,84.99,medium,low,10,name.com,,,12/09/2026 20:09
 3cbcd38b-0ef5-4608-ae1e-7a9a6cf0ff98,sherman.jewelry,available,64.99,64.99,high,low,7,namesilo,,,25/09/2026 09:27
-ce7d442a-788b-4983-ab35-7ce769d6f639,addendum.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,17/09/2026 06:41
+ce7d442a-788b-4983-ab35-7ce769d6f639,addendum.jewelry,available,64.99,64.99,high,low,8,namesilo,,,17/09/2026 06:41
 d6fd9f8c-8b92-4450-ad0d-20c023dd97f4,ingrowing.jewelry,available,19.99,84.99,medium,low,9,name.com,,,22/08/2026 04:54
 d84633e9-ddb9-4de1-9615-18d51d4ee06b,finley.jewelry,available,67.98,69.98,high,low,6,namecheap,,,28/09/2026 04:02
 ba07438b-b73c-4bf6-b0e8-17cc40d712e3,gregorian.jewelry,available,19.99,84.99,high,low,9,name.com,,,20/08/2026 19:58
 7e81445a-d649-4b7c-98c7-87e26ccfd1a7,knitting.jewelry,available,67.98,69.98,high,low,8,namecheap,,,29/09/2026 01:31
 e199b23a-6456-47a6-9377-ac8084e42045,piglet.jewelry,available,64.99,64.99,high,low,6,namesilo,,,19/09/2026 22:30
 9a51d69c-b480-4e9a-91e4-504a8d2df369,audiometry.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,21/09/2026 02:58
-122ae7ea-6048-4975-b553-845b07ce72a2,granny.jewelry,available,19.99,,high,low,6,name.com,,,
+122ae7ea-6048-4975-b553-845b07ce72a2,granny.jewelry,available,51.95,51.95,high,low,6,spaceship,,,29/09/2026 21:16
 133b36da-5a41-452f-99bf-d29b762c81d6,clashing.jewelry,available,19.99,84.99,medium,low,8,name.com,,,12/08/2026 09:40
-9afc2bd8-7352-479c-91f0-7199ae2bcd92,slope.jewelry,available,19.99,,high,low,5,name.com,,,
+9afc2bd8-7352-479c-91f0-7199ae2bcd92,slope.jewelry,available,64.99,64.99,high,low,5,namesilo,,,29/09/2026 23:47
 842c31c2-ca25-4bd5-83ef-cd573e93a1cb,chaparral.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,10/09/2026 00:21
 6d7d3141-561e-4ad7-8723-b75d9982f547,tingling.jewelry,available,64.99,64.99,high,low,8,namesilo,,,11/09/2026 15:29
 6eefb732-03f0-4361-ac5e-12bef658235a,panel.jewelry,available,64.99,64.99,high,low,5,namesilo,,,19/09/2026 11:40
@@ -803,9 +861,9 @@ a11f55f0-7a58-44c1-aea8-82edb18a7396,branching.jewelry,available,19.99,84.99,hig
 827c75ca-c88f-4a9d-8bc8-852a47abf31f,dives.jewelry,available,19.99,,high,low,5,name.com,,,
 5bb4bf15-3e94-41f9-a487-71b8fc90d867,camps.jewelry,available,10.81,52.01,medium,low,5,porkbun,,,28/09/2026 18:04
 a2fb3675-a633-4e34-be13-ac2049d621c9,filmed.jewelry,available,19.99,84.99,high,low,6,name.com,,,18/08/2026 04:25
-bea3ee25-61cc-4a83-898a-1d2de15ace94,overly.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,14/09/2026 16:48
+bea3ee25-61cc-4a83-898a-1d2de15ace94,overly.jewelry,available,64.99,64.99,high,low,6,namesilo,,,14/09/2026 16:48
 0eb52d67-008d-4415-a343-fd570cae3729,lovingly.jewelry,available,67.98,69.98,high,low,8,namecheap,,,14/09/2026 19:14
-006c0fa6-53a1-4054-b055-30dede1c51b7,mendoza.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,27/09/2026 07:53
+006c0fa6-53a1-4054-b055-30dede1c51b7,mendoza.jewelry,available,64.99,64.99,high,low,7,namesilo,,,27/09/2026 07:53
 7fa5674a-54d9-4ff1-bea8-5f05b5b4f933,musky.jewelry,available,64.99,64.99,high,low,5,namesilo,,,03/09/2026 11:33
 624d6225-ebdb-424e-8cb6-21ffeaa0869b,adagio.jewelry,available,19.99,84.99,high,low,6,name.com,,,
 bd9a21c0-68b8-4f95-b2b8-1caa1149dc52,virulent.jewelry,available,19.99,84.99,medium,low,8,name.com,,,
@@ -824,6 +882,7 @@ d988e1c0-4546-42a3-88b8-1b567636410f,headfirst.jewelry,available,19.99,84.99,med
 b0613f3a-bbfd-4774-b233-dc8666fad37a,anhydride.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,19/09/2026 08:24
 2b3297cd-3bca-468a-81e0-d608d6e07503,flexible.jewelry,available,67.98,69.98,high,low,8,namecheap,,,23/09/2026 18:12
 df1af658-7dc5-4bd3-8cb7-99566ab4ef6f,hicks.jewelry,available,50.2,50.2,medium,low,5,cloudflare,,,28/09/2026 12:48
+7cdc4810-6d1b-46ef-9fd9-05d950601328,slapped.jewelry,available,50.2,50.2,low,low,7,cloudflare,,,29/09/2026 23:39
 60ff5a3d-7b49-42d5-9382-3a8fa6989672,pronounced.jewelry,available,67.98,69.98,high,low,10,namecheap,,,25/09/2026 16:53
 a93546ef-7f44-4e33-bf83-d326b3cbfbd6,badaga.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,21/09/2026 16:58
 2bdea646-abba-4fa1-9e88-a11daad8d863,vanished.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,13/09/2026 01:09
@@ -833,11 +892,12 @@ ab950693-b95f-4530-8635-732cbc936b79,tonal.jewelry,available,19.99,84.99,high,lo
 e183f7f5-a1a4-4666-a068-d0d24325749a,palermo.jewelry,available,64.99,64.99,high,low,7,namesilo,,,27/09/2026 15:11
 7b896049-c71d-4838-afea-f552f7ccf812,wheat.jewelry,available,10.81,52.01,high,low,5,porkbun,,,28/09/2026 06:34
 21f7c7aa-8657-4aef-848a-47458abc5598,anglia.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,19/09/2026 06:45
-10cad0a0-cb68-4ec4-a05a-9459511fee66,dealership.jewelry,available,64.99,64.99,high,low,10,namesilo,,,25/09/2026 03:26
+10cad0a0-cb68-4ec4-a05a-9459511fee66,dealership.jewelry,available,10.92,53.72,high,low,10,dynadot,,,29/09/2026 06:18
 4a2684ff-947f-40d8-90a4-eb05d2e4a54d,dump.jewelry,available,64.99,64.99,high,low,4,namesilo,,,25/09/2026 05:01
 b96ded7e-f98d-4dbd-8143-92625045c3c4,rebuild.jewelry,available,67.98,69.98,high,low,7,namecheap,,,28/09/2026 06:58
 60d9bbed-59b1-490f-8127-8ccd48c335c5,auroral.jewelry,available,64.99,64.99,high,low,7,namesilo,,,22/09/2026 13:08
 00bb1522-fec6-477d-98c6-87f3cc8acdfc,sumptuary.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,11/09/2026 01:40
+0019b8d2-b644-4cf8-b210-ac6318109d43,glen.jewelry,available,10.92,53.72,high,low,4,dynadot,,,29/09/2026 19:03
 fc1a2262-c0a7-4888-a40c-bd1532e91cb7,analog.jewelry,available,19.99,84.99,high,low,6,name.com,,,
 53e75f0b-9251-499d-acf9-2ed98ea09289,grind.jewelry,available,67.98,69.98,high,low,5,namecheap,,,08/09/2026 21:20
 790047b0-f406-4532-87b0-2a74716a1bb9,annotator.jewelry,available,67.98,69.98,medium,low,9,namecheap,,,19/09/2026 10:48
@@ -845,6 +905,7 @@ c144bda5-1651-441e-a822-8d52e4d78b92,chartreuse.jewelry,available,19.99,84.99,me
 32c5d1a4-56e7-491a-acc4-4b04093a8736,yours.jewelry,available,,,high,low,5,,,,
 08299b34-9af9-4d5a-ac7e-980b7bcdb129,mentioning.jewelry,available,67.98,69.98,medium,low,10,namecheap,,,17/09/2026 21:20
 bc6f5a7c-3261-4f4b-b482-576ceb1d23fb,remedial.jewelry,available,64.99,64.99,high,low,8,namesilo,,,22/09/2026 02:24
+1b04c45e-e32e-47cd-bbef-d75db893e533,herring.jewelry,available,10.81,52.01,high,low,7,porkbun,,,30/09/2026 01:03
 ff08ed8a-f34c-4e73-ac06-7f67129c5895,railways.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,18/09/2026 22:58
 6e1b7206-d1fa-4953-9bf7-a936ef35c10e,spotless.jewelry,available,19.99,84.99,high,low,8,name.com,,,21/08/2026 20:48
 a7f40cdf-cdc0-4e75-81b8-07520a29c4ff,crosby.jewelry,available,67.98,69.98,high,low,6,namecheap,,,23/09/2026 17:15
@@ -874,6 +935,7 @@ cc4f60ab-eca0-479f-9eb8-710e0a075485,blindly.jewelry,available,64.99,64.99,mediu
 694152e8-510f-4f0a-b125-c928a9d7a3b8,convict.jewelry,available,67.98,69.98,high,low,7,namecheap,,,24/09/2026 17:58
 6aa2879d-4659-48c5-b6b2-5709fec85302,expect.jewelry,available,19.99,,high,low,6,name.com,,,
 d1c535c1-3d60-4bbb-bd9a-e6bc852ec91b,gobs.jewelry,available,64.99,64.99,high,low,4,namesilo,,,14/09/2026 23:34
+3838d61e-0ae2-4e25-9dfc-530db3b6c3f1,retreated.jewelry,available,51.95,51.95,high,low,9,spaceship,,,30/09/2026 02:43
 23a7e62f-45b5-4137-85bf-5aae7b8c8e4b,mustard.jewelry,available,51.95,51.95,high,low,7,spaceship,,,28/09/2026 06:28
 6cdc312b-e868-4693-9640-7d9edc1eefd3,turf.jewelry,available,51.95,51.95,high,low,4,spaceship,,,28/09/2026 05:54
 7d5ffe71-f13c-45ca-9641-60ca8e5e97bb,chilly.jewelry,available,19.99,84.99,high,low,6,name.com,,,12/08/2026 05:30
@@ -881,6 +943,7 @@ d1c535c1-3d60-4bbb-bd9a-e6bc852ec91b,gobs.jewelry,available,64.99,64.99,high,low
 f99ed992-6c8d-45be-95b6-bef8a423093b,tuppeny.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,10/09/2026 09:12
 eb483bf2-f118-4157-9240-b3b17d10e707,hesse.jewelry,available,64.99,64.99,high,low,5,namesilo,,,27/09/2026 04:26
 bb6bd980-91c3-4670-bde2-a47e08e4c017,footling.jewelry,available,19.99,84.99,medium,low,8,name.com,,,18/08/2026 03:30
+1f61ec19-5a2d-41d9-a071-f4005de754b8,marek.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 17:56
 b28a8b62-2154-42a7-8a36-99cd7040c770,restructuring.jewelry,available,19.99,,medium,low,13,name.com,,,
 b8561a87-f60e-47c5-9af8-8541ab48189e,astrodome.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,20/09/2026 17:37
 739bfc75-08b0-4ad0-9ba2-6ec85a3f2764,conjugal.jewelry,available,19.99,84.99,high,low,8,name.com,,,12/08/2026 22:07
@@ -893,109 +956,46 @@ c9906ecd-c517-421d-ae56-cf955be0fb41,quantity.jewelry,available,19.99,,high,low,
 98ee92b6-e537-42f9-9221-192f4ad6fc82,scooped.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,17/09/2026 23:31
 62eb10c8-da1d-4328-9a34-360b45024266,grizzled.jewelry,available,19.99,84.99,high,low,8,name.com,,,20/08/2026 20:11
 46e7b7ce-9a0e-4b46-9737-b96e65e4a1f9,leo.jewelry,premium,242,242,high,medium,3,namesilo,,,25/09/2026 08:56
+f714d7a0-c409-4b60-8f5b-df558f784999,williamstown.jewelry,available,64.99,64.99,medium,low,12,namesilo,,,29/09/2026 22:48
+21219751-61a6-4729-9c9d-f94e3712a7b8,nsc.jewelry,available,10.92,53.72,high,low,3,dynadot,,,29/09/2026 07:39
 ca717299-5409-45fb-8e66-8e0f9d8febce,conqueror.jewelry,available,64.99,64.99,high,low,9,namesilo,,,24/09/2026 17:25
 0fd12482-5a01-4795-8c7c-ff97bdb9fbd4,critics.jewelry,available,51.95,51.95,low,low,7,spaceship,,,28/09/2026 18:02
 b1096d81-c2e0-4500-a97f-55fe0870ca94,morton.jewelry,available,64.99,64.99,high,low,6,namesilo,,,25/09/2026 05:58
 3683f90e-20ab-440f-b76a-7fb3f766e1c2,agrigento.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,17/09/2026 02:44
 d15577cb-b26e-49b9-82fb-ab2682b6a780,aleatory.jewelry,available,19.99,84.99,medium,low,8,name.com,,,
 4864d733-227e-47bd-9b76-34dd0972519b,dozen.jewelry,available,67.98,69.98,high,low,5,namecheap,,,21/09/2026 11:29
+166f5f13-1bf4-42a6-a8ee-491e16869fed,sentencing.jewelry,available,51.95,51.95,high,low,10,spaceship,,,29/09/2026 23:41
 10ccce4f-f36f-4f04-8b51-2801ee4c1b35,brought.jewelry,available,19.99,,medium,low,7,name.com,,,
-785e8b14-2837-42ab-9e2d-2f1d3fd33613,weismann.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,21/09/2026 03:48
+785e8b14-2837-42ab-9e2d-2f1d3fd33613,weismann.jewelry,available,64.99,64.99,high,low,8,namesilo,,,21/09/2026 03:48
 f2b817c3-e418-4028-848d-11a230669c4a,mongol.jewelry,available,19.99,84.99,high,low,6,name.com,,,25/08/2026 04:45
 d77a7d22-16dc-4030-8d39-39c3faa5760b,natty.jewelry,available,19.99,84.99,high,low,5,name.com,,,13/08/2026 17:29
 f9418b3b-736c-4fa5-9f31-f7072e5ca4f7,legged.jewelry,available,19.99,84.99,high,low,6,name.com,,,22/08/2026 22:55
+f02c9dfa-fb5d-4488-9eac-42bb273f3b0c,erased.jewelry,available,51.95,51.95,high,low,6,spaceship,,,29/09/2026 10:26
+4b6fb395-c241-4823-a844-3add88fd8b5d,dirac.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,29/09/2026 18:39
 8e81c0b7-9af1-42c7-9c0f-fa2deda4f0cd,binturong.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,20/09/2026 02:47
 a59bb246-7778-40c8-897a-154190c868ff,oversewn.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,04/09/2026 21:48
 4d580f57-1e1e-4371-98ba-30011c919f61,asmara.jewelry,available,64.99,64.99,medium,low,6,namesilo,,,20/09/2026 14:27
 92f645bf-1eaf-462c-83fb-c722de1dccd9,bifurcate.jewelry,available,19.99,84.99,high,low,9,name.com,,,09/08/2026 20:08
 aa860056-a4b5-4e51-bfc7-d9e445eca9bb,boundary.jewelry,available,67.98,69.98,high,low,8,namecheap,,,23/09/2026 01:32
 c99ec803-b1cc-45c6-9851-c99218143cd8,palatine.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,04/09/2026 23:20
-a963d22f-a5d8-4433-8824-c178c4ef57e8,clerk.jewelry,available,19.99,,high,low,5,name.com,,,
+a963d22f-a5d8-4433-8824-c178c4ef57e8,clerk.jewelry,available,10.92,53.72,high,low,5,dynadot,,,29/09/2026 10:01
 f269e143-90f0-4490-8119-1602964f8b17,thankful.jewelry,available,64.99,64.99,high,low,8,namesilo,,,24/09/2026 22:54
 b343c171-2a65-4d2d-95de-f2c998c256ca,freetown.jewelry,available,64.99,64.99,high,low,8,namesilo,,,24/09/2026 12:22
 cc6ecb51-f02d-4ba1-80ce-e1679856b0d5,leaky.jewelry,available,19.99,84.99,medium,low,5,name.com,,,22/08/2026 22:01
 4c9b0d29-9cd2-4734-b554-c7a7e86dbcc4,aleksandr.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,28/09/2026 08:00
 5019b46a-0c93-40c8-a1b1-fb5ead1e5f81,distinctly.jewelry,available,64.99,64.99,high,low,10,namesilo,,,14/09/2026 13:19
 f86830fe-d066-4f11-bd1f-3dc0b80ad36d,bowls.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 03:46
-9d812aab-19c6-4965-b554-efafb701f5a9,eyes.jewelry,available,19.99,,high,low,4,name.com,,,
+9d812aab-19c6-4965-b554-efafb701f5a9,eyes.jewelry,available,67.98,69.98,high,low,4,namecheap,,,29/09/2026 18:46
 01a267b2-72e1-48f3-b08c-468d802cf0bc,leaden.jewelry,available,19.99,84.99,medium,low,6,name.com,,,22/08/2026 21:44
 83e93d9f-f4ae-4a70-baca-096eadc1d4b4,antacid.jewelry,available,64.99,64.99,high,low,7,namesilo,,,22/09/2026 05:43
 4ac1ac8d-da9c-4c39-b9ed-62559e8ca552,unpaired.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,12/09/2026 15:30
 0dcde9ea-9bdc-48bb-9b91-aa62fd748c93,shove.jewelry,available,19.99,,high,low,5,name.com,,,
+ccae5d27-e092-4c5f-b87c-70ab2e36f703,dayton.jewelry,available,64.99,64.99,high,low,6,namesilo,,,30/09/2026 01:15
+47e54cca-ba99-4de5-b202-4b0c4ee40192,src.jewelry,available,64.99,64.99,high,low,3,namesilo,,,29/09/2026 08:26
 b2726d2a-589f-4016-a7ec-847106a36827,fretted.jewelry,available,19.99,84.99,medium,low,7,name.com,,,18/08/2026 15:24
 41eabddb-7f8a-4053-90da-d0337ef470d3,harquebus.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,20/09/2026 08:40
 e897e154-82b6-4a75-af1f-04fa82b10efe,contrasting.jewelry,available,19.99,,high,low,11,name.com,,,
 a620f506-06b4-4b54-a997-939436d50ce9,scrappy.jewelry,available,64.99,64.99,high,low,7,namesilo,,,09/09/2026 23:48
 f6e87fde-6df6-442f-a197-a227b5196fcd,ships.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,18/09/2026 14:07
-4d865e41-4990-4ef4-8634-597c3e1ecca9,mill.jewelry,available,19.99,,high,low,4,name.com,,,
+4d865e41-4990-4ef4-8634-597c3e1ecca9,mill.jewelry,available,51.95,51.95,high,low,4,spaceship,,,29/09/2026 18:53
 45113f6b-36ee-4cd0-951a-e9d1eb4c037e,freeborn.jewelry,available,19.99,84.99,medium,low,8,name.com,,,18/08/2026 14:53
-9c944d5e-252f-45b8-983d-530375892938,designate.jewelry,available,19.99,84.99,high,low,9,name.com,,,14/08/2026 03:42
-e0f97148-4661-4249-b82a-bd4e4ec774c8,draining.jewelry,available,19.99,84.99,medium,low,8,name.com,,,14/08/2026 18:19
-2884fae8-654e-4e81-b582-82ad76b0f85c,aegean.jewelry,available,19.99,84.99,high,low,6,name.com,,,
-3ec3a549-6723-444b-9faa-2d96a9a1209d,hype.jewelry,available,64.99,64.99,high,medium,4,namesilo,,,29/09/2026 00:50
-fbcd6cc0-6228-45d2-b319-e4d4fd0cdf8c,negotiate.jewelry,available,19.99,,high,low,9,name.com,,,
-976acb91-e1d7-48df-8df5-7e1e74951d38,automatism.jewelry,available,67.98,69.98,medium,low,10,namecheap,,,21/09/2026 06:59
-7ac9b942-7e20-4d49-88d7-000d0d7a9054,grotty.jewelry,available,19.99,84.99,medium,low,6,name.com,,,20/08/2026 20:20
-0568d3f9-ea07-49e4-83d8-312fe3467f90,mute.jewelry,available,19.99,84.99,high,low,4,name.com,,,13/08/2026 16:51
-8643dd81-f997-48af-898b-ced527f4d15f,sells.jewelry,available,64.99,64.99,high,low,5,namesilo,,,28/09/2026 03:41
-690ec0cf-d751-4849-80a1-0c506f326cbf,bernoulli.jewelry,available,67.98,69.98,medium,low,9,namecheap,,,23/09/2026 09:57
-84408cb6-65b9-4598-8253-3e2966505e39,erosion.jewelry,available,64.99,64.99,high,low,7,namesilo,,,13/09/2026 09:06
-2717f913-315b-46b8-af7a-77e80417264f,heaps.jewelry,available,64.99,64.99,high,low,5,namesilo,,,14/09/2026 23:17
-ed6d44c0-cb84-4e79-b7a5-72e875ed70ec,whorehouse.jewelry,available,67.98,69.98,medium,low,10,namecheap,,,21/09/2026 18:13
-93d27c7e-49f1-47d0-8326-377e75173ea6,yeah.jewelry,available,64.99,64.99,high,low,4,namesilo,,,28/09/2026 16:49
-6ccce8b8-072e-49e8-87a2-7fd09d38dcd7,lid.jewelry,available,64.99,64.99,high,low,3,namesilo,,,24/09/2026 13:43
-df200945-e68b-460b-807e-864f310f5c8b,surly.jewelry,available,64.99,64.99,medium,low,5,namesilo,,,11/09/2026 04:06
-4044fd17-dc6b-4941-9fb5-2d0b480cc21c,gag.jewelry,available,19.99,,high,low,3,name.com,,,
-494e360b-c72c-4277-82b5-0187dcb960f2,cantabile.jewelry,available,19.99,84.99,medium,low,9,name.com,,,11/08/2026 17:38
-fe89d16a-4727-405d-b451-2673cd5f4549,atheist.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,22/09/2026 10:58
-a5fbebc7-e6ee-4763-9518-e3f36df0cda8,governance.jewelry,available,19.99,84.99,high,low,10,name.com,,,20/08/2026 17:22
-bfd68b5e-1be1-4d56-a88c-87d23eb70fc4,sevenfold.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,10/09/2026 04:25
-b36088ab-3b91-48c0-9655-d5c1dcf1b3ed,waxing.jewelry,available,64.99,64.99,high,low,6,namesilo,,,13/09/2026 08:44
-e786cbf4-37b0-42c0-926d-70e2ce8142cd,traceable.jewelry,available,64.99,64.99,high,low,9,namesilo,,,11/09/2026 18:33
-5298c7fc-b782-49a0-8375-c6ba6e05655c,ponderable.jewelry,available,19.99,84.99,medium,low,10,name.com,,,12/08/2026 15:42
-cc1ddb09-a0ea-45a6-aa88-53d39ef27b1b,prudishly.jewelry,available,64.99,64.99,low,low,9,namesilo,,,15/09/2026 21:53
-89d1cc19-79b9-4d90-9bd5-a732f2ee7bfb,relentless.jewelry,available,19.99,84.99,high,low,10,name.com,,,20/08/2026 20:05
-3c9af71f-feec-432f-860f-6d8b86deee64,intangible.jewelry,available,19.99,84.99,high,low,10,name.com,,,21/08/2026 21:42
-ac1642fb-b68f-4040-8a18-25ed35c22018,interrupted.jewelry,available,10.92,53.72,medium,low,11,dynadot,,,28/09/2026 08:46
-b019c50c-2fcf-4ea7-8911-97877d26cb00,gpa.jewelry,available,51.95,51.95,high,low,3,spaceship,,,28/09/2026 05:52
-01f7edd5-5763-492b-9985-e4a588f0818a,antebellum.jewelry,available,19.99,84.99,medium,low,10,name.com,,,
-1419c86f-3bc4-46c9-95dc-0ce6e85c44ac,faye.jewelry,available,64.99,64.99,medium,low,4,namesilo,,,28/09/2026 13:31
-2835a97b-f01a-4739-9a54-a7e39896ba46,fur.jewelry,available,67.98,69.98,high,low,3,namecheap,,,27/09/2026 04:05
-f2729c56-fd2d-4f11-8675-83304696e81b,adamance.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,17/09/2026 06:15
-69f7030d-1dad-4ee0-b7bc-b0c59e89c550,vocative.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,13/09/2026 06:31
-52e8802a-9647-4c8d-9336-23006ed009f8,opposing.jewelry,available,64.99,64.99,high,low,8,namesilo,,,04/09/2026 16:38
-1179d05b-a53c-4a84-afa7-9244353473a9,bonaparte.jewelry,available,64.99,64.99,medium,low,9,namesilo,,,25/09/2026 00:27
-c404a43e-3b9d-43f3-a037-fb03e48730bd,sonorous.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,10/09/2026 14:13
-fa309eb7-3dbe-44b1-9451-013d839ed98b,almagrib.jewelry,available,19.99,84.99,medium,low,9,name.com,,,24/08/2026 16:25
-18a1aef2-6bdb-4314-9faa-3350d432e02e,dressing.jewelry,available,64.99,64.99,high,low,8,namesilo,,,22/09/2026 00:55
-e6c1bda5-cf77-4577-874f-dd6deb4bfd80,that.jewelry,available,19.99,,high,low,4,name.com,,,
-872b0634-915e-4527-baa3-cb341d0ffca2,audacious.jewelry,available,67.98,69.98,high,low,9,namecheap,,,22/09/2026 12:06
-e3623b3d-e1f5-433f-b09b-bd91ec6bd0b8,blare.jewelry,available,19.99,84.99,medium,low,5,name.com,,,10/08/2026 13:12
-8218abac-7a21-4e87-a32e-e3b0a583d63c,carving.jewelry,available,64.99,64.99,high,low,7,namesilo,,,29/09/2026 00:21
-d81b551f-30d0-44ce-9dff-5b41338129cc,apical.jewelry,available,19.99,84.99,medium,low,6,name.com,,,05/08/2026 23:58
-e9810318-d6a1-4abe-8697-eeed272159b3,compass.jewelry,available,64.99,64.99,high,medium,7,namesilo,,,18/09/2026 16:50
-489502ff-7826-4b7f-9854-d1cf01daf23c,rococo.jewelry,available,67.98,69.98,high,low,6,namecheap,,,09/09/2026 18:12
-cbad7202-e97b-4c03-b4f3-7fd0b526c096,zag.jewelry,available,64.99,64.99,high,low,3,namesilo,,,13/09/2026 15:17
-406e1256-b41a-4fa9-850d-a258041a5c7e,curve.jewelry,available,19.99,84.99,high,low,5,name.com,,,06/08/2026 15:00
-cec8ca91-159a-4fd8-950c-6abba753f758,pouf.jewelry,available,64.99,64.99,high,low,4,namesilo,,,09/09/2026 08:13
-8c3fd699-6a75-40f1-8d14-ef0a4767a52b,electrical.jewelry,available,19.99,84.99,high,low,10,name.com,,,16/08/2026 02:39
-d5a68aa0-fab9-47eb-b53b-4b4765a15d0a,sends.jewelry,available,67.98,69.98,medium,low,5,namecheap,,,27/09/2026 03:02
-44c84f06-769b-422a-a822-255e6d8a0355,session.jewelry,available,51.95,51.95,high,low,7,spaceship,,,28/09/2026 17:16
-483c0918-6d47-4b2e-94b6-a4e266515c6e,brook.jewelry,available,51.95,51.95,high,low,5,spaceship,,,29/09/2026 04:32
-b7737465-3b56-4267-95c3-b62a68b6aeb6,fervid.jewelry,available,19.99,84.99,medium,low,6,name.com,,,06/08/2026 16:19
-b74a75e6-7451-4031-a04f-493a3df27f98,alcazar.jewelry,available,64.99,64.99,medium,low,7,namesilo,,,18/09/2026 03:51
-ef75a89c-3b32-4f4f-aaa2-d937c5bb5f25,devices.jewelry,available,64.99,64.99,high,low,7,namesilo,,,28/09/2026 03:14
-5bfec14e-7a2b-472c-9853-b7e90bbaee34,multiplayer.jewelry,available,19.99,,high,low,11,name.com,,,
-41736400-de46-488f-b08b-bb78f9153665,cyber.jewelry,premium,242,242,high,medium,5,namesilo,,,27/09/2026 06:18
-85620fd1-84a9-4e06-bbc4-2333dc2b7682,abort.jewelry,available,64.99,64.99,high,low,5,namesilo,,,16/09/2026 16:38
-e1929bdd-0956-41b8-a184-2b26629aa690,capricious.jewelry,available,19.99,84.99,medium,low,10,name.com,,,11/08/2026 18:04
-8f97a49b-ae87-48cd-8fd5-334acc0c7560,emotion.jewelry,available,19.99,,high,low,7,name.com,,,
-f2bb55dd-2fde-4ddb-9a81-5995b550ea69,touristy.jewelry,available,67.98,69.98,medium,low,8,namecheap,,,11/09/2026 18:22
-67970592-2a9c-4e83-bff3-e2f5816fd5ab,conjointly.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,14/09/2026 07:27
-438f092e-1c3c-4cb1-9b30-545d4f86b17a,ansi.jewelry,available,51.95,51.95,medium,low,4,spaceship,,,28/09/2026 11:47
-f8acb2ba-d5b8-4d4f-acda-ba7f6eb2bc68,mary.jewelry,available,67.98,69.98,high,low,4,namecheap,,,24/09/2026 06:05
-5e06d6ba-b6b9-43b2-9298-2e7f2c31528b,polemic.jewelry,available,19.99,84.99,medium,low,7,name.com,,,08/09/2026 22:51
-039557b3-c757-49ec-9b61-c26dfdc1fc6d,repaired.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,28/09/2026 23:01
-2e38a200-fe52-4f7d-be31-da471d4b3ae6,hindrance.jewelry,available,19.99,84.99,medium,low,9,name.com,,,14/08/2026 04:50
-5e1e05bc-1c58-4dfd-96d0-de666cac9ed1,vigilantly.jewelry,available,64.99,64.99,medium,low,10,namesilo,,,16/09/2026 10:54
-374bba55-bd1a-4bb1-9cd8-1c7ce191c800,mata.jewelry,available,51.95,51.95,medium,low,4,spaceship,,,28/09/2026 21:09
