@@ -1,10 +1,10 @@
-# Available .JEWELRY One-Word Domains (32,894)
+# Available .JEWELRY One-Word Domains (35,269)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C894%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C269%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .jewelry one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,894 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,269 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,894 domains · **Median ask:** $50.46 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 35,269 domains · **Median ask:** $50.75 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/jewelry`
 **Best for:** founders, investors, studios
 
@@ -76,14 +76,14 @@ print(df.head())
 | cfa.jewelry    | available | $64.99    | $64.99        | high           | low    | 3      | namesilo         |
 | cue.jewelry    | available | $64.99    | $64.99        | high           | medium | 3      | namesilo         |
 | cvs.jewelry    | available | $64.99    | $64.99        | high           | low    | 3      | namesilo         |
+| dav.jewelry    | available | $10.81    | $52.01        | high           | low    | 3      | porkbun          |
 | des.jewelry    | available | $64.99    | $64.99        | high           | low    | 3      | namesilo         |
 | dip.jewelry    | available | $64.99    | $64.99        | high           | low    | 3      | namesilo         |
 | dis.jewelry    | available | $64.99    | $64.99        | high           | low    | 3      | namesilo         |
 | dom.jewelry    | available | $51.95    | $51.95        | high           | medium | 3      | spaceship        |
+| eng.jewelry    | available | $67.98    | $69.98        | high           | low    | 3      | namecheap        |
 | eps.jewelry    | available | $51.95    | $51.95        | high           | low    | 3      | spaceship        |
 | ftp.jewelry    | available | $64.99    | $64.99        | high           | low    | 3      | namesilo         |
-| gmc.jewelry    | available | $51.95    | $51.95        | high           | low    | 3      | spaceship        |
-| gyp.jewelry    | available | $64.99    | $64.99        | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,894 live domains                        |
+| 1,000-row public sample | 35,269 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JEWELRY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
